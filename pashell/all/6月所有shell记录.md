@@ -58,13 +58,13 @@ http://cy-zdh.com/upload/attached/20200419/b6m.php | 211.149.164.178
 regular: 
 39.107.65.243 阿里云
 已批量修改
-https://www.sdbcsw.com/apps/home/model//m1.php | 39.107.65.243  www.sdbcsw.com/puiblic.php  最新版
+https://www.sdbcsw.com/apps/home/model/m1.php | 39.107.65.243  www.sdbcsw.com/puiblic.php  最新版
 修改点:
 /www/wwwroot/www.sdbcsw.com/template/www.sdbcsw.com/html/common/head.html
-https://www.maifusd.com/static/upload/image/20231219/m1.php |mmk123 | 39.107.65.243
-https://www.bkmjxs.cn/uploads/20211106//m1.php |mmk123 | 39.107.65.243
-https://www.bkfhauv.com/static/ueditor/php/m1.php |mmk123 | 39.107.65.243
-https://www.biobasebaby.com/uploads/images/20210621/m1.php |mmk123 | 39.107.65.243
+https://www.maifusd.com/static/upload/image/20231219/m1.php |mmk123 | 39.107.65.243     连不上
+https://www.bkmjxs.cn/uploads/20211106//m1.php |mmk123 | 39.107.65.243     连不上
+https://www.bkfhauv.com/static/ueditor/php/m1.php |mmk123 | 39.107.65.243   连不上
+https://www.biobasebaby.com/uploads/images/20210621/m1.php |mmk123 | 39.107.65.243  连不上
 https://www.gx-biosensor.com/uploads/210329/210329/210329/210329//m1.php |mmk123 | 39.107.65.243
 
 http://www.zhishifufei.xyz/static/upload/image/20211005/m1.php |mmk123 | 1.94.24.175
@@ -1776,7 +1776,7 @@ https://www.szjinqi.cn/static/upload/image/20220825/01m.php |mmk123 |  47.106.24
 https://www.szqianfang.cn/runtime/config/01m.php |mmk123 |  129.28.141.219
 https://www.westwolftec.com/Mining/qq0m.asp |mmk123 |D:/virtualhost/localuser/host9215460 | 122.10.97.226
 https://www.xm2195.com/uploads/user/1/2m.php |mmk123 |  1.14.250.124
-https://www.yaokeyun.com/data/upback/2.0.27/01mr1.php |mmk123 |rsa | 8.129.125.177
+https://www.yaokeyun.com/data/upback/2.0.27/01mr1.php |mmk123 |rsa | 8.129.125.177    没修改文件权限
 https://www.yiaiyuan666.com/static/plug/layui/images/face/face/00m.php |mmk123 |  106.15.55.66
 https://www.yicaiexpo.cn/static/upload/image/20211028/ssssss01m.php |mmk123 |rsa | 8.129.125.177
 https://www.yicaiexpo.com/uploads/210518/11101mr1.php |mmk123 |rsa | 8.129.125.177
