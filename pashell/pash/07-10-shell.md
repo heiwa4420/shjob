@@ -1,0 +1,11 @@
+https://www.yungouche.cn/core/log/1m.php |mmk123 |rsa  
+https://www.mswyc.com/m/images/1m.php |mmk123 |rsa  
+http://bjjydzc.com/skin/cn/images/1m.php |mmk123 |rsa  
+https://www.sxjdl.com/template/default/wap/1m.php |mmk123 |rsa  
+https://zhijiany.com//core/extend/ueditor/php/1m.php |mmk123 |rsa  
+https://www.bjzard.com/phpMyAdmin4.8.5/examples/1m.php |mmk123 |rsa  
+http://bjjydzc.com/skin/cn/images/1m.php |mmk123 |rsa  
+https://zhfsec.cn/apps/home/model/1m.php |mmk123 |rsa  
+https://www.sumeiju.com/apps/api/model/1m.php |mmk123 |rsa  
+http://www.chuchu567.com/apps/admin/model/system/1m.php |mmk123 |rsa  
+https://h5.mswyc.com/apps/common/1m.php |mmk123 |rsa  
