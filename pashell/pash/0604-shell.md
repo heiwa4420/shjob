@@ -1,64 +1,66 @@
 http://14.icp.pusite.icu/static/upload/other/20220329/mmk123.php |mmk123 |  47.242.240.153
 http://ag.fanleiwl.top/static/upload/image/20221004/01m.php |mmk123 |  47.116.9.20
-http://amu.xinnengyinli.com/static/admin/layui/css/modules/.Vfdqti.php |mmk123 |  106.15.55.66
-http://baoying.azheteng.cn/static/admin/layui/css/modules/.y4MZKP.php |mmk123 |  106.15.55.66
-http://bbq.azheteng.cn/static/admin/layui/css/modules/.OnKkRj.php |mmk123 |  106.15.55.66
-http://bjyzc.cn/counter/config.asp |mmk123 |  122.10.97.226
-http://cc.chenzhitang.com/framework/builtin/core/template/mobile/.L0IAHt.php |mmk123 |  106.15.55.66
-http://changyou.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.oUmxrK.php |mmk123 |  106.15.55.66
+http://amu.xinnengyinli.com/static/admin/layui/css/modules/.Vfdqti.php |mmk123 |  106.15.55.66   被删404
+http://baoying.azheteng.cn/static/admin/layui/css/modules/.y4MZKP.php |mmk123 |  106.15.55.66   连不上403
+http://bbq.azheteng.cn/static/admin/layui/css/modules/.OnKkRj.php |mmk123 |  106.15.55.66 连不上403
+http://bjyzc.cn/counter/config.asp |mmk123 |  122.10.97.226    连不上
+http://cc.chenzhitang.com/framework/builtin/core/template/mobile/.L0IAHt.php |mmk123 |  106.15.55.66       连不上403
+http://changyou.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.oUmxrK.php |mmk123 |  106.15.55.66    连不上403
 http://cnwiki.amberobotics.com:8888/static/upload/image/20220430/01m.php |mmk123 |  Invalid domain
-http://course.xm2195.com/uploads/exam_tpl/2m.php |mmk123 |  1.14.250.124
-http://cui.azheteng.cn/core/library/alioss/src/OSS/.pKLQF7.php |mmk123 |  106.15.55.66
-http://danxiaoju.azheteng.cn/core/library/alioss/src/OSS/.HVsQql.php |mmk123 |  106.15.55.66
-http://daolan111.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.jQ6PWr.php |mmk123 |  106.15.55.66
-http://dingchangshop.azheteng.cn/static/admin/layui/css/modules/.i591hK.php |mmk123 |  106.15.55.66
-http://ditudaka2.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.hdfz6u.php |mmk123 |  106.15.55.66
+http://course.xm2195.com/uploads/exam_tpl/2m.php |mmk123 |  1.14.250.124     被删404
+http://cui.azheteng.cn/core/library/alioss/src/OSS/.pKLQF7.php |mmk123 |  106.15.55.66    连不上403
+http://danxiaoju.azheteng.cn/core/library/alioss/src/OSS/.HVsQql.php |mmk123 |  106.15.55.66    连不上403
+http://daolan111.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.jQ6PWr.php |mmk123 |  106.15.55.66    连不上403
+http://dingchangshop.azheteng.cn/static/admin/layui/css/modules/.i591hK.php |mmk123 |  106.15.55.66   被删404
+http://ditudaka2.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.hdfz6u.php |mmk123 |  106.15.55.66    连不上403
 http://douyin.0594168.cn/data/aba.php |zc |  101.34.210.216
 http://douyinbata.0594168.cn/data/2m.php |mmk123 |  101.34.210.216
-http://etc.azheteng.cn/static/admin/layui/css/modules/.FP8PWl.php |mmk123 |  106.15.55.66
-http://fukang.azheteng.cn/static/admin/layui/css/modules/.NxpDTl.php |mmk123 |  106.15.55.66
-http://guanwang01.azheteng.cn/apps/admin/view/default/images/.qfVnCW.php |mmk123 |  106.15.55.66
-http://gufayikang.zhonghengyikang.com.cn/static/admin/layui/css/modules/.wcjacP.php |mmk123 |  106.15.55.66
-http://h5.imqrj.com/xy/1234.php |mmk123 |  1.14.250.124
-http://hz.xm2195.com/static/lib/layui/font/32m.php |mmk123 |  1.14.250.124
+http://etc.azheteng.cn/static/admin/layui/css/modules/.FP8PWl.php |mmk123 |  106.15.55.66    连不上403
+http://fukang.azheteng.cn/static/admin/layui/css/modules/.NxpDTl.php |mmk123 |  106.15.55.66    连不上403
+http://guanwang01.azheteng.cn/apps/admin/view/default/images/.qfVnCW.php |mmk123 |  106.15.55.66   连不上
+http://gufayikang.zhonghengyikang.com.cn/static/admin/layui/css/modules/.wcjacP.php |mmk123 |  106.15.55.66    连不上 {"code":"ECONNRESET
+http://h5.imqrj.com/xy/1234.php |mmk123 |  1.14.250.124   被删404
+http://hz.xm2195.com/static/lib/layui/font/32m.php |mmk123 |  1.14.250.124   被删404
 http://img.cqwkll.com:8080/static/upload/image/20210326/01m.php |mmk123 |/usr/share/nginx/wxgzh/ ->http://www.cqwkll.com/ | Invalid domain
-http://jianbuzou1.xinnengyinli.com/payment/unionpay/upacp_sdk_php/utf8/func/.YP8hlf.php |mmk123 |  106.15.55.66
-http://jianbuzouzhongjian.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.pCQRsY.php |mmk123 |  106.15.55.66
-http://jianhui.azheteng.cn/static/admin/layui/css/modules/.omSkx6.php |mmk123 |  106.15.55.66
-http://jifenduihuan.azheteng.cn/static/admin/layui/css/modules/.peudRG.php |mmk123 |  106.15.55.66
-http://jinbiceshi.azheteng.cn/static/admin/layui/css/modules/.FwFX7V.php |mmk123 |  106.15.55.66
+http://jianbuzou1.xinnengyinli.com/payment/unionpay/upacp_sdk_php/utf8/func/.YP8hlf.php |mmk123 |  106.15.55.66   连不上403
+http://jianbuzouzhongjian.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.pCQRsY.php |mmk123 |  106.15.55.66   连不上403
+http://jianhui.azheteng.cn/static/admin/layui/css/modules/.omSkx6.php |mmk123 |  106.15.55.66   连不上403
+http://jifenduihuan.azheteng.cn/static/admin/layui/css/modules/.peudRG.php |mmk123 |  106.15.55.66   连不上403
+http://jinbiceshi.azheteng.cn/static/admin/layui/css/modules/.FwFX7V.php |mmk123 |  106.15.55.66   连不上403
 http://kc.zhengruiedu.com//templates/layer/theme/default/01m.php |mmk123 |rsa | 8.142.45.34
 http://kenjujing.99fzy.cn/static/upload/image/20220905/01m.php |mmk123 |  47.103.59.72
-http://kuaifengdd.azheteng.cn/static/admin/layui/css/modules/.oFqhs3.php |mmk123 |  106.15.55.66
-http://liuji.azheteng.cn/static/admin/layui/css/modules/.pwIZyL.php |mmk123 |  106.15.55.66
-http://liujitest.azheteng.cn/static/admin/layui/css/modules/.Peo8Dp.php |mmk123 |  106.15.55.66
-http://m.xn--7qsw56d9ea766dzks.com/data/13.php |wso |wso | 103.44.237.114
-http://mifenghuishou.azheteng.cn/static/admin/layui/css/modules/.SS7Ti5.php |mmk123 |  106.15.55.66
+http://kuaifengdd.azheteng.cn/static/admin/layui/css/modules/.oFqhs3.php |mmk123 |  106.15.55.66   连不上403
+http://liuji.azheteng.cn/static/admin/layui/css/modules/.pwIZyL.php |mmk123 |  106.15.55.66   连不上403
+http://liujitest.azheteng.cn/static/admin/layui/css/modules/.Peo8Dp.php |mmk123 |  106.15.55.66   连不上403
+http://m.xn--7qsw56d9ea766dzks.com/data/13.php |wso |wso | 103.44.237.114   连不上403
+http://mifenghuishou.azheteng.cn/static/admin/layui/css/modules/.SS7Ti5.php |mmk123 |  106.15.55.66   连不上403
 http://mrhn.iwycgj.com/static/upload/video/20220211/01m.php |mmk123 |  47.96.70.166
-http://net.yuanchuanggz.com:7110/static/upload/image/20240505/1714877398614998.php |mmk123 |  Invalid domain
+http://net.yuanchuanggz.com:7110/static/upload/image/20240505/1714877398614998.php |mmk123 |  Invalid domain   被删404
 http://net8.souming.com/static/upload/image/20230426/01m.php |mmk123 |  120.79.98.207
-http://njxdyx.azheteng.cn/static/admin/layui/css/modules/.17XcVt.php |mmk123 |  106.15.55.66
-http://nongmu.azheteng.cn/static/diycomponent/coupon/img/icon/.EILImS.php |mmk123 |  106.15.55.66
+http://njxdyx.azheteng.cn/static/admin/layui/css/modules/.17XcVt.php |mmk123 |  106.15.55.66   连不上403
+http://nongmu.azheteng.cn/static/diycomponent/coupon/img/icon/.EILImS.php |mmk123 |  106.15.55.66   连不上
 http://pbvv10060.dgzaixing.com/uploads/190630/01m.php |mmk123 |  211.149.236.230
-http://purplecity.com.cn/static/upload/image/20190930/1569802690158767.php |mmk123 |  159.138.132.208
-http://qianhu.azheteng.cn/Public/UEditor/themes/default/css/0m.php |mmk123 |  106.15.55.66
-http://qixian.azheteng.cn/static/admin/layui/css/modules/.qbUyjp.php |mmk123 |  106.15.55.66
+http://purplecity.com.cn/static/upload/image/20190930/1569802690158767.php |mmk123 |  159.138.132.208   被删404
+http://qianhu.azheteng.cn/Public/UEditor/themes/default/css/0m.php |mmk123 |  106.15.55.66   连不上403
+http://qixian.azheteng.cn/static/admin/layui/css/modules/.qbUyjp.php |mmk123 |  106.15.55.66   连不上403
 http://rspai.com/runtime/complile/42d23539b6eecc4961757ae9eb0ea6c8.php |mmk123 |  159.138.132.208
 http://sem.hairfair.com.cn/apps/api/model/01m.php |mmk123 |  139.196.84.246
-http://shop.azheteng.cn/static/admin/layui/css/modules/.Me6o8G.php |mmk123 |  106.15.55.66
-http://shuangheng.xinnengyinli.com/static/admin/layui/css/modules/.lUuhom.php |mmk123 |  106.15.55.66
-http://sjtu-apgi.edu.sg/admissions/00.aspx |mmk123 |  122.10.97.226
+http://shop.azheteng.cn/static/admin/layui/css/modules/.Me6o8G.php |mmk123 |  106.15.55.66   连不上403
+http://shuangheng.xinnengyinli.com/static/admin/layui/css/modules/.lUuhom.php |mmk123 |  106.15.55.66   连不上403
+http://sjtu-apgi.edu.sg/admissions/00.aspx |mmk123 |  122.10.97.226   连不上403
 http://souming.com/uploads/admin/202209/01m.php |mmk123 |  120.79.98.207
-http://sxy.iqcrj.com/uploads/20220414/2m.php |mmk123 |  1.14.250.124
-http://tiyuchang.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.njSPFe.php |mmk123 |  106.15.55.66
-http://topbestsealings.com/include/page/0m.asp |mmk123 |  122.10.97.226
+http://sxy.iqcrj.com/uploads/20220414/2m.php |mmk123 |  1.14.250.124   被删404
+http://tiyuchang.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.njSPFe.php |mmk123 |  106.15.55.66   连不上403
+http://topbestsealings.com/include/page/0m.asp |mmk123 |  122.10.97.226       连不上
 http://tp.fsxcys.cn/static/upload/image/20240515/1715754660202683.php |mmk123 |  8.134.163.80
-http://tuanduishop.azheteng.cn/static/admin/layui/css/modules/.qnVfHS.php |mmk123 |  106.15.55.66
-http://vv.chenzhitang.com/framework/builtin/core/template/mobile/.2ao1gA.php |mmk123 |  106.15.55.66
-http://w7.azheteng.cn/static/admin/layui/css/modules/.mSe6TH.php |mmk123 |  106.15.55.66
-http://wenyidaolan.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.f3mxuO.php |mmk123 |  106.15.55.66
-http://whweijun.zhichengweb.com/static/upload/image/20231124/01m.php |mmk123 |  211.149.245.73
-http://www.0594168.cn/1.php |mmk123 |  101.34.210.216
+http://tuanduishop.azheteng.cn/static/admin/layui/css/modules/.qnVfHS.php |mmk123 |  106.15.55.66   被删404
+http://vv.chenzhitang.com/framework/builtin/core/template/mobile/.2ao1gA.php |mmk123 |  106.15.55.66   连不上403
+http://w7.azheteng.cn/static/admin/layui/css/modules/.mSe6TH.php |mmk123 |  106.15.55.66   连不上403
+http://wenyidaolan.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.f3mxuO.php |mmk123 |  106.15.55.66  连不上403
+http://whweijun.zhichengweb.com/static/upload/image/20231124/01m.php |mmk123 |  211.149.245.73     连不上 {"code":"ECONNABORTED"
+http://www.0594168.cn/1.php |mmk123 |  101.34.210.216   被删404
+
+
 http://www.aileendance.com/style/0m.asp |mmk123 |  122.10.97.226
 http://www.ajsaudio.com/UploadFile/menu//20210m.asp |mmk123 |  122.10.97.226
 http://www.auknut.com/templates/M1601005/min/static/vendor/7-stroke/0m.asp |mmk123 |  122.10.97.226

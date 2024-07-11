@@ -1,11 +1,11 @@
 http://14.icp.pusite.icu/static/upload/other/20220329/mmk123.php |mmk123 |  47.242.240.153
-http://ag.fanleiwl.top/static/upload/image/20221004/01m.php |mmk123 |  47.116.9.20
-http://amu.xinnengyinli.com/static/admin/layui/css/modules/.Vfdqti.php |mmk123 |  106.15.55.66
-http://baoying.azheteng.cn/static/admin/layui/css/modules/.y4MZKP.php |mmk123 |  106.15.55.66
-http://bbq.azheteng.cn/static/admin/layui/css/modules/.OnKkRj.php |mmk123 |  106.15.55.66
-http://bjyzc.cn/counter/config.asp |mmk123 |  122.10.97.226
-http://cc.chenzhitang.com/framework/builtin/core/template/mobile/.L0IAHt.php |mmk123 |  106.15.55.66
-http://changyou.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.oUmxrK.php |mmk123 |  106.15.55.66
+http://ag.fanleiwl.top/static/upload/image/20221004/01m.php |mmk123 |  47.116.9.20     已经手动修改
+http://amu.xinnengyinli.com/static/admin/layui/css/modules/.Vfdqti.php |mmk123 |  106.15.55.66     状态403
+http://baoying.azheteng.cn/static/admin/layui/css/modules/.y4MZKP.php |mmk123 |  106.15.55.66     状态403
+http://bbq.azheteng.cn/static/admin/layui/css/modules/.OnKkRj.php |mmk123 |  106.15.55.66    状态403
+http://bjyzc.cn/counter/config.asp |mmk123 |  122.10.97.226    连接超时
+http://cc.chenzhitang.com/framework/builtin/core/template/mobile/.L0IAHt.php |mmk123 |  106.15.55.66       状态403
+http://changyou.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.oUmxrK.php |mmk123 |  106.15.55.66     状态403
 http://cnwiki.amberobotics.com:8888/static/upload/image/20220430/01m.php |mmk123 |  Invalid domain
 http://course.xm2195.com/uploads/exam_tpl/2m.php |mmk123 |  1.14.250.124
 http://cui.azheteng.cn/core/library/alioss/src/OSS/.pKLQF7.php |mmk123 |  106.15.55.66
