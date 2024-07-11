@@ -7,27 +7,28 @@ http://bjyzc.cn/counter/config.asp |mmk123 |  122.10.97.226    连接超时
 http://cc.chenzhitang.com/framework/builtin/core/template/mobile/.L0IAHt.php |mmk123 |  106.15.55.66       状态403
 http://changyou.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.oUmxrK.php |mmk123 |  106.15.55.66     状态403
 http://cnwiki.amberobotics.com:8888/static/upload/image/20220430/01m.php |mmk123 |  Invalid domain
-http://course.xm2195.com/uploads/exam_tpl/2m.php |mmk123 |  1.14.250.124
-http://cui.azheteng.cn/core/library/alioss/src/OSS/.pKLQF7.php |mmk123 |  106.15.55.66
-http://danxiaoju.azheteng.cn/core/library/alioss/src/OSS/.HVsQql.php |mmk123 |  106.15.55.66
-http://daolan111.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.jQ6PWr.php |mmk123 |  106.15.55.66
-http://dingchangshop.azheteng.cn/static/admin/layui/css/modules/.i591hK.php |mmk123 |  106.15.55.66
-http://ditudaka2.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.hdfz6u.php |mmk123 |  106.15.55.66
-http://douyin.0594168.cn/data/aba.php |zc |  101.34.210.216
-http://douyinbata.0594168.cn/data/2m.php |mmk123 |  101.34.210.216
-http://etc.azheteng.cn/static/admin/layui/css/modules/.FP8PWl.php |mmk123 |  106.15.55.66
-http://fukang.azheteng.cn/static/admin/layui/css/modules/.NxpDTl.php |mmk123 |  106.15.55.66
-http://guanwang01.azheteng.cn/apps/admin/view/default/images/.qfVnCW.php |mmk123 |  106.15.55.66
-http://gufayikang.zhonghengyikang.com.cn/static/admin/layui/css/modules/.wcjacP.php |mmk123 |  106.15.55.66
-http://h5.imqrj.com/xy/1234.php |mmk123 |  1.14.250.124
-http://hz.xm2195.com/static/lib/layui/font/32m.php |mmk123 |  1.14.250.124
-http://img.cqwkll.com:8080/static/upload/image/20210326/01m.php |mmk123 |/usr/share/nginx/wxgzh/ ->http://www.cqwkll.com/ | Invalid domain
-http://jianbuzou1.xinnengyinli.com/payment/unionpay/upacp_sdk_php/utf8/func/.YP8hlf.php |mmk123 |  106.15.55.66
-http://jianbuzouzhongjian.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.pCQRsY.php |mmk123 |  106.15.55.66
-http://jianhui.azheteng.cn/static/admin/layui/css/modules/.omSkx6.php |mmk123 |  106.15.55.66
-http://jifenduihuan.azheteng.cn/static/admin/layui/css/modules/.peudRG.php |mmk123 |  106.15.55.66
-http://jinbiceshi.azheteng.cn/static/admin/layui/css/modules/.FwFX7V.php |mmk123 |  106.15.55.66
-http://kc.zhengruiedu.com//templates/layer/theme/default/01m.php |mmk123 |rsa | 8.142.45.34
+http://course.xm2195.com/uploads/exam_tpl/2m.php |mmk123 |  1.14.250.124    状态 404
+http://cui.azheteng.cn/core/library/alioss/src/OSS/.pKLQF7.php |mmk123 |  106.15.55.66     状态403
+http://danxiaoju.azheteng.cn/core/library/alioss/src/OSS/.HVsQql.php |mmk123 |  106.15.55.66     状态403 
+http://daolan111.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.jQ6PWr.php |mmk123 |  106.15.55.66    状态403 
+http://dingchangshop.azheteng.cn/static/admin/layui/css/modules/.i591hK.php |mmk123 |  106.15.55.66   状态 404
+http://ditudaka2.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.hdfz6u.php |mmk123 |  106.15.55.66     状态403
+http://douyin.0594168.cn/data/aba.php |zc |  101.34.210.216   站点打不开
+http://douyinbata.0594168.cn/data/2m.php |mmk123 |  101.34.210.216     站点打不开
+http://etc.azheteng.cn/static/admin/layui/css/modules/.FP8PWl.php |mmk123 |  106.15.55.66   状态403 
+http://fukang.azheteng.cn/static/admin/layui/css/modules/.NxpDTl.php |mmk123 |  106.15.55.66   状态403 
+http://guanwang01.azheteng.cn/apps/admin/view/default/images/.qfVnCW.php |mmk123 |  106.15.55.66   站点打不开
+http://gufayikang.zhonghengyikang.com.cn/static/admin/layui/css/modules/.wcjacP.php |mmk123 |  106.15.55.66       站点打不开
+http://h5.imqrj.com/xy/1234.php |mmk123 |  1.14.250.124    无效站点
+http://hz.xm2195.com/static/lib/layui/font/32m.php |mmk123 |  1.14.250.124      站点打不开，无效站点
+http://img.cqwkll.com:8080/static/upload/image/20210326/01m.php |mmk123 |/usr/share/nginx/wxgzh/ ->http://www.cqwkll.com/ | Invalid domain         站点打不开，无效站点
+http://jianbuzou1.xinnengyinli.com/payment/unionpay/upacp_sdk_php/utf8/func/.YP8hlf.php |mmk123 |  106.15.55.66    站点打不开，无效站点
+http://jianbuzouzhongjian.azheteng.cn/payment/unionpay/upacp_sdk_php/utf8/func/.pCQRsY.php |mmk123 |  106.15.55.66   状态403 
+http://jianhui.azheteng.cn/static/admin/layui/css/modules/.omSkx6.php |mmk123 |  106.15.55.66  状态403 
+
+http://jifenduihuan.azheteng.cn/static/admin/layui/css/modules/.peudRG.php |mmk123 |  106.15.55.66   状态403 
+http://jinbiceshi.azheteng.cn/static/admin/layui/css/modules/.FwFX7V.php |mmk123 |  106.15.55.66   状态403 
+http://kc.zhengruiedu.com//templates/layer/theme/default/01m.php |mmk123 |rsa | 8.142.45.34   手动修改
 http://kenjujing.99fzy.cn/static/upload/image/20220905/01m.php |mmk123 |  47.103.59.72
 http://kuaifengdd.azheteng.cn/static/admin/layui/css/modules/.oFqhs3.php |mmk123 |  106.15.55.66
 http://liuji.azheteng.cn/static/admin/layui/css/modules/.pwIZyL.php |mmk123 |  106.15.55.66
