@@ -1,31 +1,19 @@
+连上的可以修改的
 http://www.4068657.xyz/system/database/drivers/mysql/.o5mU1E.php |mmk123 |rsa       登录页面，无价值
 http://yugesuibi.cn/wp-content/plugins/akismet/_inc/.wmvAqT.php |mmk123 |rsa      已改
-http://sdyuanlin.cn/core/extend/ueditor/dialogs/.VeJTgx.php |mmk123 |rsa       被删404
-http://www.beijinglvyuan.cn/meituan/library/think/db/.jxuJec.php |mmk123 |rsa   页面编码错误
-http://hk01230916140701.hk01.88081.cn/wp-content/plugins/akismet/_inc/.YiYCjS.php |mmk123 |rsa  
-http://hk01230913025619.hk01.88081.cn/install/layer/skin/default/.iV2jvz.php |mmk123 |rsa   无返回数据
 http://precious999.cn/wp-content/plugins/akismet/_inc/.VVtXNh.php |mmk123 |rsa   手动修改
-http://www.shituo27.com/wp-content/plugins/akismet/_inc/.C4qiKL.php |mmk123 |rsa     无效站点
-http://hk01230828151449.hk01.88081.cn/wp-content/plugins/keydesign-addon/includes/.pYJ7nx.php |mmk123 |rsa       无返回数据
 http://16898.xyz/data/cache/memberlogin/8f/.1G0r17.php |mmk123 |rsa      已改
-http://www.mazhifu.me/zb_users/theme/os2020/static/.zjPf8M.php |mmk123 |rsa    无返回数据
 http://i.cnonline.org/temp/library/think/db/.r3RBGw.php |mmk123 |rsa      已改
-http://www.anmingzixun.com/apps/modules/backup/think/.813c7p.php |mmk123 |rsa    站点打不开
 http://www.shiniansw.xyz/api/library/think/db/.LiAClh.php |mmk123 |rsa    已改
 http://www.daiguahao120.cn/d/file/p/2022/.yOfMCe.php |mmk123 |rsa      已改
 http://tanxinyx.com/class/library/think/db/.JzuK1c.php |mmk123 |rsa    已改
 http://zidongbo.cn/static/library/think/db/.yybqad.php |mmk123 |rsa      已改
 http://vantagehold.com/Home/Lib/Widget/Flash/.3pzSTe.php |mmk123 |rsa       已改
-http://mazhifu.me/zb_users/theme/os2020/static/.Ws2nKh.php |mmk123 |rsa     无返回数据
 http://jianlingty.cn/wp-content/plugins/akismet/_inc/.oIPtSl.php |mmk123 |rsa    已改
-http://www.qianxueshi.com/cx/php |mmk123/php |rsa     无返回数据
-http://yxswll.ccrl.cn/install/layer/skin/default/.1Hzq3a.php |mmk123 |rsa    无返回数据
 http://www.tianya6868.cn/wp-content/plugins/akismet/_inc/.xo9oUn.php |mmk123 |rsa     已改
 http://mail.qfdlyb.com/core/extend/ueditor/dialogs/.LtCkSB.php |mmk123 |rsa       已改
 http://hk01230415163516.hk01.88081.cn/data/cache/memberlogin/c4/.34ZIXQ.php |mmk123 |rsa   手动修改 
 http://lianbao.xyz/core/extend/ueditor/dialogs/.bjl996.php |mmk123 |rsa         已改
-http://www.i0372.cn/core/extend/ueditor/dialogs/.AySx6k.php |mmk123 |rsa        无返回数据
-http://yyzh888.com/Thinkphp |mmk123/library/think/db/.LKtLQG.php |rsa      连不上 403
 http://www.yayingart.cn/fonts/modules/backup/think/.2cVQFr.php |mmk123 |rsa       已改 
 http://gm.8agm.cn/apps/library/think/db/.aToHUg.php |mmk123 |rsa   手动修改
 http://xian-jiankong.com/core/extend/ueditor/dialogs/.mGnVAa.php |mmk123 |rsa     已改  
@@ -33,16 +21,13 @@ http://jiaoyuan.cn/wp-content/plugins/akismet/_inc/.snsV5D.php |mmk123 |rsa   �
 http://www.longba8.cn/vendor/Dysmsapi/Request/V20170525/.eGj4fb.php |mmk123 |rsa    手动修改 
 http://www.rf415.cn/admin/library/think/db/.7bUhbJ.php |mmk123 |rsa       已改       
 http://www.ic888888.com/apps/library/think/db/.h6B0ci.php |mmk123 |rsa        已改        
-http://www.fumilong.com/templates/zaim/images/icon/.v8H4xt.php |mmk123 |rsa      无返回数据  
 http://www.godothome.com/static/admin/static/css/.UcaNaG.php |mmk123 |rsa      已改       
-http://taoi.eu.org/posstest/library/think/db/.PLlAps.php |mmk123 |rsa    无效站点
 http://pay.as365.top/wp-content/plugins/akismet/_inc/.vuypf4.php |mmk123 |rsa     手动修改 
 http://as365.top/wp-content/plugins/akismet/_inc/.nUq0SD.php |mmk123 |rsa     手动修改 
 http://www.hk-pt.com/about/modules/backup/think/.AJhisn.php |mmk123 |rsa    手动修改 
 http://www.allyourlike.com/control/library/think/db/.TmsGak.php |mmk123 |rsa     手动修改 
 http://ciwbgm.asia/tttt/resource/TTSDanmaku/ver10124/.IKYgdi.php |mmk123 |rsa    手动修改  
 http://www.zidongbo.cn/static/picture/mobile/system/.eBD5uk.php |mmk123 |rsa      手动修改  
-http://hk01230916222730.hk01.88081.cn/templates/zaim/images/icon/.AK87vu.php |mmk123 |rsa       无返回数据    
 http://aigdzd.cn/dh/library/think/db/.S6HK0Q.php |mmk123 |rsa       手动修改  
 http://waiwong.cn/wp-content/plugins/akismet/_inc/.tWQnOm.php |mmk123 |rsa    手动修改  
 http://www.zhaopinlan.cn/vendor/topthink/think-migration/src/.zf9lhG.php |mmk123 |rsa   手动修改  
@@ -51,92 +36,113 @@ http://www.aigdzd.cn/dh/library/think/db/.aeKjsW.php |mmk123 |rsa      手动修
 http://vermicellichina.com/Home/Lib/Widget/Flash/.jvmn7P.php |mmk123 |rsa    手动修改  
 http://www.jxsaiyun.cn/doyo/admin/template/style/.v771Bj.php |mmk123 |rsa      手动修改  
 http://3qq.cn/qq/library/think/db/.2MnWcO.php |mmk123 |rsa       手动修改  
-http://fumilong.com/templates/zaim/images/icon/.0C4ZUj.php |mmk123 |rsa      无返回数据   
 http://www.yanzhengming.com/wp-content/plugins/akismet/_inc/.91PSEo.php |mmk123 |rsa     手动修改  
 http://qdzzlw.com/plug/ueditor/dialogs/attachment/.nFAkmL.php |mmk123 |rsa       手动修改  
-http://www.yugesuibi.cn/wp-content/plugins/akismet/_inc/.ncWXMo.php |mmk123 |rsa        无返回数据  
 http://mw.lflgvbw.cn/qq/library/think/db/.ToDPj3.php |mmk123 |rsa       手动修改  
-http://cw233.com/common/library/think/db/.ITyBIp.php |mmk123 |rsa    无效站点
-http://hk01230730172618.hk01.88081.cn/wp-content/plugins/akismet/_inc/.wWPPxQ.php |mmk123 |rsa       无返回数据   
 http://hq.lflgvbw.cn/public/library/think/db/.Ls5CCA.php |mmk123 |rsa         手动修改  
 http://www.daicaixia888.com/wordpress/wp-content/plugins/akismet/.dWlONl.php |mmk123 |rsa      手动修改  
-http://www.16898.xyz/data/cache/memberlogin/8f/.cpgcvV.php |mmk123 |rsa         无返回数据  
 http://www.wshen0248.com/xapp/templets/admin/style/.CVQZCz.php |mmk123 |rsa           已改      
 http://www.hz8888.cn/hz8888/ui/fonts/_vti_cnf/.TmWL9a.php |mmk123 |rsa    手动修改  
 http://www.pk217.com/sim/modules/backup/think/.S1qwc5.php |mmk123 |rsa      手动修改  
 http://yangliang888.cn/wp-content/plugins/akismet/_inc/.ILEOAW.php |mmk123 |rsa     手动修改  
 http://g63.cn/a/library/think/db/.87LKWT.php |mmk123 |rsa   手动修改  
 http://www.xiaoliuxiaofupo.com/wp-content/plugins/akismet/_inc/.5eT0WR.php |mmk123 |rsa       手动修改  
-http://hk01230419102640.hk01.88081.cn/wp-content/plugins/wpjam-basic/cdn/.SWOZa1.php |mmk123 |rsa         无返回数据    
-http://www.cnonline.org/temp/library/think/db/.YRVAd6.php |mmk123 |rsa           无返回数据    
 http://www.jiaoyuan.cn/wp-content/plugins/akismet/_inc/.rogzmc.php |mmk123 |rsa    手动修改  
 http://www.td511.com/a/library/think/db/.tT7B4j.php |mmk123 |rsa   手动修改   
 http://hanleyi888.com/wp-content/plugins/akismet/_inc/.CZpiON.php |mmk123 |rsa     手动修改   
-http://www.tanxinyx.com/class/library/think/db/.YqLJWZ.php |mmk123 |rsa        无返回数据    
 http://www.lufeiyang.cn/csqlb/library/think/db/.zSKIad.php |mmk123 |rsa  手动修改   
 http://www.3qq.cn/qq/library/think/db/.DdsBXG.php |mmk123 |rsa    手动修改   
 http://www.hanleyi888.com/wp-content/plugins/akismet/_inc/.H07MuX.php |mmk123 |rsa   手动修改   
 http://m.qfdlyb.com/core/extend/ueditor/dialogs/.LQvLWx.php |mmk123 |rsa        已改   
 http://www.g63.cn/a/library/think/db/.KVXpMc.php |mmk123 |rsa     手动修改   
-http://hk01230920094501.hk01.88081.cn/core/extend/ueditor/dialogs/.ZSQYPy.php |mmk123 |rsa      无返回数据    
 http://www.uacx.cn/add/library/think/db/.ALJAtK.php |mmk123 |rsa    手动修改   
 http://www.vermicellichina.com/Home/Lib/Widget/Flash/.hRmAdb.php |mmk123 |rsa          已改    
-http://qianxueshi.com/cx/php |mmk123/php |rsa           无返回数据    
-http://shiniansw.xyz/api/library/think/db/.hBPiyh.php |mmk123 |rsa        无返回数据     
 http://uacx.cn/add/library/think/db/.ltANnS.php |mmk123 |rsa      手动修改   
 http://dayoukewei520.top/wp-content/plugins/akismet/_inc/.Ajgw1w.php |mmk123 |rsa      手动修改   
-http://www.waiwong.cn/wp-content/plugins/akismet/_inc/.cDQEaN.php |mmk123 |rsa  无效站点
-http://yaojiadiane.cn/public/library/think/db/.wW6H5z.php |mmk123 |rsa    无效站点
-http://hk01231127124338.hk01.88081.cn/public/library/think/db/.w9lJdd.php |mmk123 |rsa   无效站点
 http://www.as365.top/wp-content/plugins/akismet/_inc/.6oM64U.php |mmk123 |rsa        手动修改   
 http://tvcathy.asia/admin/library/think/db/.LMTmDC.php |mmk123 |rsa     手动修改   
-http://dianbobo.com.cn/static/library/think/db/.6NK7Fy.php |mmk123 |rsa         无返回数据     
 http://www.787980.xyz/control/library/think/db/.WCQXOv.php |mmk123 |rsa    手动修改  
 http://zhaolj969723.cn/wp-content/plugins/akismet/_inc/.6AQJpt.php |mmk123 |rsa      手动修改  
 http://tianya6868.cn/wp-content/plugins/akismet/_inc/.HJVqPB.php |mmk123 |rsa    手动修改  
-http://client.cn2.01.youlian123.cn/afe/library/think/db/.Ra6gGG.php |mmk123 |rsa       无返回数据     
-http://www.dbb.cool/static/library/think/db/.VJgcEM.php |mmk123 |rsa     无返回数据     
-http://www.aptospay.com/wp-content/plugins/keydesign-addon/includes/.khdQq2.php |mmk123 |rsa     无返回数据     
-http://dbb.cool/static/library/think/db/.TnSLeu.php |mmk123 |rsa   无返回数据     
-http://www.qdzzlw.com/plug/ueditor/dialogs/attachment/.KcrCFH.php |mmk123 |rsa     无返回数据    
 http://www.jianlingty.cn/wp-content/plugins/akismet/_inc/.gO17Xp.php |mmk123 |rsa    手动修改  
-http://ic888888.com/apps/library/think/db/.qnciLN.php |mmk123 |rsa      无返回数据    
-http://www.xian-jiankong.com/core/extend/ueditor/dialogs/.ddoqFc.php |mmk123 |rsa     无返回数据    
 http://xiaoliuxiaofupo.com/wp-content/plugins/akismet/_inc/.Da0gGC.php |mmk123 |rsa    手动修改  
 http://daicaixia888.com/wordpress/wp-content/plugins/akismet/.iSfZ4v.php |mmk123 |rsa      手动修改  
-http://yayingart.cn/fonts/modules/backup/think/.z9cETt.php |mmk123 |rsa     无返回数据    
 http://mxtcm.com/wp-content/plugins/akismet/_inc/.aNTW8v.php |mmk123 |rsa         手动修改  
 http://yanzhengming.com/wp-content/plugins/akismet/_inc/.nvoTU3.php |mmk123 |rsa     手动修改  
 http://www.yangliang888.cn/wp-content/plugins/akismet/_inc/.pNx4Kc.php |mmk123 |rsa     手动修改  
 http://www.dianbobo.com.cn/static/library/think/db/.L0Zvh3.php |mmk123 |rsa    手动修改  
 http://tyst2023.cn/wp-content/plugins/akismet/_inc/.22eV8m.php |mmk123 |rsa      手动修改  
-http://pk215.com/nit/library/think/db/.2J5mpL.php |mmk123 |rsa    无效站点
 http://www.jxrdkj.com/zszc/pgxt/2019/0908/.cqu7cu.php |mmk123 |rsa           已改    
-http://www.pk215.com/nit/library/think/db/.Dva6bL.php |mmk123 |rsa   无效站点
 http://gddmall.cn/module/modules/backup/think/.bc3jEB.php |mmk123 |rsa        已改    
 http://www.kingsda.top/fonts/modules/backup/think/.UJFXRu.php |mmk123 |rsa         手动修改  
 http://weixin.sjxh.net/Common/wap/buttons/css/.UuJE9s.php |mmk123 |rsa   手动修改  
-http://aptospay.com/wp-content/plugins/keydesign-addon/includes/.A0yo1s.php |mmk123 |rsa     无返回数据    
 http://www.sjxh.net/Common/wap/buttons/css/.Fj4OAu.php |mmk123 |rsa     手动修改  
 http://www.vermicelli.ma/Home/Lib/Widget/Flash/.fdLHWL.php |mmk123 |rsa     手动修改 
-http://mx6.top/core/extend/ueditor/dialogs/.C4rf3S.php |mmk123 |rsa     无效站点
 http://godothome.com/static/admin/static/css/.lQqXf1.php |mmk123 |rsa            已改    
-http://www.sdyuanlin.cn/core/extend/ueditor/dialogs/.OlCo3k.php |mmk123 |rsa      无返回数据    
 http://www.jxddmc.cn/hz8888/ui/fonts/_vti_cnf/.k7gnCw.php |mmk123 |rsa           已改    
 http://4068657.xyz/system/database/drivers/mysql/.wSOYZI.php |mmk123 |rsa     手动修改 
 http://qfdlyb.com/core/extend/ueditor/dialogs/.mRQyh0.php |mmk123 |rsa        已改    
-http://www.xfzkglq.cn/system/platform/view/default/.XmWd4Z.php |mmk123 |rsa         无返回数据    
 http://www.qfdlyb.com/core/extend/ueditor/dialogs/.NiTz6r.php |mmk123 |rsa      已改    
 http://www.mxtcm.com/wp-content/plugins/akismet/_inc/.a75ifV.php |mmk123 |rsa       手动修改   
 http://www.zhaolj969723.cn/wp-content/plugins/akismet/_inc/.s567f7.php |mmk123 |rsa     手动修改   
 http://ar.vermicelli.ma/Home/Lib/Widget/Flash/.IhHL6j.php |mmk123 |rsa     手动修改    
-http://td511.com/a/library/think/db/.fzE9aX.php |mmk123 |rsa   无效站点
 http://kingsda.top/fonts/modules/backup/think/.P7tRnB.php |mmk123 |rsa     手动修改   
 http://rf415.cn/admin/library/think/db/.OxcDGg.php |mmk123 |rsa   手动修改   
 http://www.tyst2023.cn/wp-content/plugins/akismet/_inc/.x29dfn.php |mmk123 |rsa    手动修改   
-http://longba8.cn/vendor/Dysmsapi/Request/V20170525/.PNEdZ6.php |mmk123 |rsa     无效站点
 http://ss.vgouw.cn/public/library/think/db/.IAj4PR.php |mmk123 |rsa   手动修改   
-http://www.baicaoxj.com/wp-content/plugins/wpjam-basic/cdn/.JBduND.php |mmk123 |rsa      无返回数据    
 http://www.precious999.cn/wp-content/plugins/akismet/_inc/.kWI4Sq.php |mmk123 |rsa   手动修改   
-http://1997mtnh.asia/assets/file/2024/07/.pv6o4e.php |mmk123 |rsa      手动修改   
+http://1997mtnh.asia/assets/file/2024/07/.pv6o4e.php |mmk123 |rsa      手动修改  
+
+
+
+连不上的错误的
+http://sdyuanlin.cn/core/extend/ueditor/dialogs/.VeJTgx.php |mmk123 |rsa       被删404
+http://www.beijinglvyuan.cn/meituan/library/think/db/.jxuJec.php |mmk123 |rsa   页面编码错误
+http://hk01230916140701.hk01.88081.cn/wp-content/plugins/akismet/_inc/.YiYCjS.php |mmk123 |rsa   无返回数据
+http://hk01230913025619.hk01.88081.cn/install/layer/skin/default/.iV2jvz.php |mmk123 |rsa   无返回数据
+http://www.shituo27.com/wp-content/plugins/akismet/_inc/.C4qiKL.php |mmk123 |rsa     无效站点
+http://hk01230828151449.hk01.88081.cn/wp-content/plugins/keydesign-addon/includes/.pYJ7nx.php |mmk123 |rsa       无返回数据
+http://www.mazhifu.me/zb_users/theme/os2020/static/.zjPf8M.php |mmk123 |rsa    无返回数据
+http://www.anmingzixun.com/apps/modules/backup/think/.813c7p.php |mmk123 |rsa    站点打不开
+http://mazhifu.me/zb_users/theme/os2020/static/.Ws2nKh.php |mmk123 |rsa     无返回数据
+http://www.qianxueshi.com/cx/php |mmk123/php |rsa     无返回数据
+http://yxswll.ccrl.cn/install/layer/skin/default/.1Hzq3a.php |mmk123 |rsa    无返回数据
+http://www.i0372.cn/core/extend/ueditor/dialogs/.AySx6k.php |mmk123 |rsa        无返回数据
+http://yyzh888.com/Thinkphp |mmk123/library/think/db/.LKtLQG.php |rsa      连不上 403
+http://www.fumilong.com/templates/zaim/images/icon/.v8H4xt.php |mmk123 |rsa      无返回数据  
+http://taoi.eu.org/posstest/library/think/db/.PLlAps.php |mmk123 |rsa    无效站点
+http://hk01230916222730.hk01.88081.cn/templates/zaim/images/icon/.AK87vu.php |mmk123 |rsa       无返回数据    
+http://www.yugesuibi.cn/wp-content/plugins/akismet/_inc/.ncWXMo.php |mmk123 |rsa        无返回数据  
+http://fumilong.com/templates/zaim/images/icon/.0C4ZUj.php |mmk123 |rsa      无返回数据   
+http://cw233.com/common/library/think/db/.ITyBIp.php |mmk123 |rsa    无效站点
+http://hk01230730172618.hk01.88081.cn/wp-content/plugins/akismet/_inc/.wWPPxQ.php |mmk123 |rsa       无返回数据   
+http://www.16898.xyz/data/cache/memberlogin/8f/.cpgcvV.php |mmk123 |rsa         无返回数据  
+http://www.cnonline.org/temp/library/think/db/.YRVAd6.php |mmk123 |rsa           无返回数据    
+http://hk01230419102640.hk01.88081.cn/wp-content/plugins/wpjam-basic/cdn/.SWOZa1.php |mmk123 |rsa         无返回数据    
+http://www.tanxinyx.com/class/library/think/db/.YqLJWZ.php |mmk123 |rsa        无返回数据    
+http://hk01230920094501.hk01.88081.cn/core/extend/ueditor/dialogs/.ZSQYPy.php |mmk123 |rsa      无返回数据    
+http://qianxueshi.com/cx/php |mmk123/php |rsa           无返回数据    
+http://shiniansw.xyz/api/library/think/db/.hBPiyh.php |mmk123 |rsa        无返回数据    
+http://www.waiwong.cn/wp-content/plugins/akismet/_inc/.cDQEaN.php |mmk123 |rsa  无效站点
+http://yaojiadiane.cn/public/library/think/db/.wW6H5z.php |mmk123 |rsa    无效站点
+http://hk01231127124338.hk01.88081.cn/public/library/think/db/.w9lJdd.php |mmk123 |rsa   无效站点
+http://dianbobo.com.cn/static/library/think/db/.6NK7Fy.php |mmk123 |rsa         无返回数据     
+http://client.cn2.01.youlian123.cn/afe/library/think/db/.Ra6gGG.php |mmk123 |rsa       无返回数据     
+http://www.dbb.cool/static/library/think/db/.VJgcEM.php |mmk123 |rsa     无返回数据     
+http://www.aptospay.com/wp-content/plugins/keydesign-addon/includes/.khdQq2.php |mmk123 |rsa     无返回数据     
+http://dbb.cool/static/library/think/db/.TnSLeu.php |mmk123 |rsa   无返回数据     
+http://www.qdzzlw.com/plug/ueditor/dialogs/attachment/.KcrCFH.php |mmk123 |rsa     无返回数据   
+http://ic888888.com/apps/library/think/db/.qnciLN.php |mmk123 |rsa      无返回数据    
+http://www.xian-jiankong.com/core/extend/ueditor/dialogs/.ddoqFc.php |mmk123 |rsa     无返回数据    
+http://yayingart.cn/fonts/modules/backup/think/.z9cETt.php |mmk123 |rsa     无返回数据    
+http://pk215.com/nit/library/think/db/.2J5mpL.php |mmk123 |rsa    无效站点
+http://www.pk215.com/nit/library/think/db/.Dva6bL.php |mmk123 |rsa   无效站点
+http://aptospay.com/wp-content/plugins/keydesign-addon/includes/.A0yo1s.php |mmk123 |rsa     无返回数据    
+http://www.sdyuanlin.cn/core/extend/ueditor/dialogs/.OlCo3k.php |mmk123 |rsa      无返回数据    
+http://www.xfzkglq.cn/system/platform/view/default/.XmWd4Z.php |mmk123 |rsa         无返回数据    
+http://longba8.cn/vendor/Dysmsapi/Request/V20170525/.PNEdZ6.php |mmk123 |rsa     无效站点
+http://www.baicaoxj.com/wp-content/plugins/wpjam-basic/cdn/.JBduND.php |mmk123 |rsa      无返回数据    
 http://hk01240423142656.hk01.88081.cn/system/platform/view/default/.kykom4.php |mmk123 |rsa        无返回数据    
+http://td511.com/a/library/think/db/.fzE9aX.php |mmk123 |rsa   无效站点
+http://mx6.top/core/extend/ueditor/dialogs/.C4rf3S.php |mmk123 |rsa     无效站点
+

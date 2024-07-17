@@ -65,11 +65,11 @@ ftp连接代理
 42.240.151.22,webmaster@NS10018028,dKr54q87,phxgjg.com       php已改  
 42.240.151.25,webmaster@NS10017852,X6B47b8f,fzseals.com        php已改  
 42.240.149.22,webmaster@NS10018121,A237LLl6,sofa01.com     asp已改
-42.240.149.90,webmaster@NS10018120,itW2521c,hqgcsl.com
-42.240.151.5,webmaster@NS10018060,vg92SU56,kaidun.cn
-42.240.149.25,webmaster@NS10018061,RR3W923o,guangxin168.com
-42.240.151.2,webmaster@NS10017889,O4O8V33u,agulai.com
-107.150.106.223,webmaster@NS10017888,C96U1dG8,reapterqd.com
+42.240.149.90,webmaster@NS10018120,itW2521c,hqgcsl.com      asp已改
+42.240.151.5,webmaster@NS10018060,vg92SU56,kaidun.cn      php手动已改  
+42.240.149.25,webmaster@NS10018061,RR3W923o,guangxin168.com    连不上   
+42.240.151.2,webmaster@NS10017889,O4O8V33u,agulai.com        php已改  
+107.150.106.223,webmaster@NS10017888,C96U1dG8,reapterqd.com       连不上   
 42.240.151.61,webmaster@NS10017913,O56Ir15Q,cnfcxc.com
 42.240.149.81,webmaster@NS10017582,D4B7Gi87,obm123.com
 42.240.151.162,webmaster@NS10017912,S4ov677X,boliancn.com.cn
