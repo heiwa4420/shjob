@@ -1,0 +1,98 @@
+Received: from localhost.localdomain (unknown [58.67.156.16])
+	by c2app3 (Coremail) with SMTP id AwMNCgDXTfPyCddlXWJdFg--.2602S2;
+	Thu, 22 Feb 2024 16:46:43 +0800 (CST)
+Date: Thu, 22 Feb 2024 16:46:42 +0800
+Return-Path: nswyun@nsw88.com
+To: service@nsw88.com
+From: =?utf-8?B?54mb5ZWG5LqR?= <nswyun@nsw88.com>
+Subject: =?utf-8?B?5oKo55qE5pyN5YqhTlMxMDAxODA1NOW3sue7j+W8gOmAmu+8gQ==?=
+Message-ID: <37b0e4c73424a82b20284340f7fe6e8f@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+X-CM-TRANSID:AwMNCgDXTfPyCddlXWJdFg--.2602S2
+X-Coremail-Antispam: 1UD129KBjvJXoWxJw1DGry3Zr45uw48Xw4DCFg_yoW5CrWxpr
+	1DtryxKr47XryUJr1UGryUXw1Ut3yUJF17Xw1kJr18Ar1UJr1DJry7Jr1UJr17GryUAr1D
+	Jry5Jr1UJr4UJwUanT9S1TB71UUUUUUqnTZGkaVYY2UrUUUUjbIjqfuFe4nvWSU5nxnvy2
+	9KBjDU0xBIdaVrnRJUUUk0b7Iv0xC_KF4lb4IE77IF4wAFF20E14v26r1j6r4UM7CY07I2
+	0VC2zVCF04k26cxKx2IYs7xG6rWj6s0DM7CIcVAFz4kK6r1j6r18M28lY4IEw2IIxxk0rw
+	A2F7IY1VAKz4vEj48ve4kI8wA2z4x0Y4vE2Ix0cI8IcVAFwI0_Gr0_Xr1l84ACjcxK6xII
+	jxv20xvEc7CjxVAFwI0_Gr0_Cr1l84ACjcxK6I8E87Iv67AKxVW0oVCq3wA2z4x0Y4vEx4
+	A2jsIEc7CjxVAFwI0_GcCE3s1le2I262IYc4CY6c8Ij28IcVAaY2xG8wAqx4xG64xvF2IE
+	w4CE5I8CrVC2j2WlYx0E2Ix0cI8IcVAFwI0_JrI_JrylYx0Ex4A2jsIE14v26r4j6F4UMc
+	vjeVCFs4IE7xkEbVWUJVW8JwACjcxG0xvY0x0EwIxGrwCY02Avz4vE14v_GFyl42xK82IY
+	c2Ij64vIr41l4I8I3I0E4IkC6x0Yz7v_Jr0_Gr1lx2IqxVAqx4xG67AKxVWUJVWUGwC20s
+	026x8GjcxK67AKxVWUGVWUWwC2zVAF1VAY17CE14v26r1j6r15MIIYrxkI7VAKI48JMIIF
+	0xvE2Ix0cI8IcVAFwI0_Jr0_JF4lIxAIcVC0I7IYx2IY6xkF7I0E14v26r1j6r4UMIIF0x
+	vE42xK8VAvwI8IcIk0rVWUJVWUCwCI42IY6I8E87Iv67AKxVW8JVWxJwCI42IY6I8E87Iv
+	6xkF7I0E14v26r4j6r4UJbIYCTnIWIevJa73UjIFyTuYvjxUxfM3DUUUU
+X-Originating-IP: [58.67.156.16]
+X-CM-SenderInfo: 5qvz533q6q24yyyou0bp/1tbiAQYPAGXWq+XBbAAFsd
+
+
+尊敬的用户：
+
+您的服务NS10018054已经开通！
+国内WEB空间请在开通后1天内进入管理后台提交您的网站备案资料，否则系统将会自动关闭空间！
+
+[主机控制面板信息]
+========================================================================
+网     址: https://panel.nswyun.com/
+用 户 名 ：NS10018054
+密    码 ：RE177N4j
+
+[网站基本信息]
+========================================================================
+网     址：http://ditech18.com/
+绑定 别名：ditech18.com；www.ditech18.com；
+ip  地 址：42.240.149.29
+ftp 地 址：42.240.149.29
+ftp用户名：webmaster@NS10018054
+ftp密  码：aY6qF976
+
+[MSSQL控制面板信息]
+========================================================================
+网    址: https://panel.nswyun.com/
+用 户 名 ：DB10009559
+密    码 ：Cn9X535l
+
+[MSSQL Server数据库信息]
+========================================================================
+MSSQL Server数据库详情：
+线路：BGP三线；
+MSSQL空间限制：500MB；
+
+您可以通过控制面板创建/管理MSSQL数据库。
+========================================================================
+
+[linux 操作系统注意事项]
+========================================================================
+您的站点开设在Linux/Unix操作系统上，FTP根目录就是Web站点的根目录，
+您可以把文件直接上载到FTP根目录；
+建议您将PHP程序权限改为600，CGI/Perl，程序权限改为700，包含数据库密码等
+敏感信息的配置文件的权限也改为600，这样可以最大程度地保护您的源代码的安全。
+文件权限最高是644，文件夹权限最高是755，设置为高于此权限会导致网站访问不正常。
+您的站点开设在linux 操作系统上，您会看到以下目录结构：
+/www_log
+请将您的网页程序文件上传到根目录下。
+网站运行后系统会自动产生/www_Log文件夹，存放您网站每天的访问日志。
+
+[Windows操作系统注意事项]
+========================================================================
+您的站点开设在Windows 操作系统上，您会看到以下目录结构：
+/database
+/htdocs
+请将您的网页程序文件上传到/htdocs目录下。不要删除/htdocs目录，否则会造成您的网站无法访问。
+/database目录您可以用来存放您的access数据库以防被下载，您需要更改程序连接路径来适应此目录。
+网站运行后系统会自动产生/WebLog文件夹，存放您网站每天的IIS访问日志。
+
+  如果有任何问题，欢迎和我们联系。
+
+
+                            致礼!
+                    
+                    牛商网
+                    2024-02-22 16:46:42
+
