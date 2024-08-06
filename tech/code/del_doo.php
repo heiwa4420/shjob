@@ -343,12 +343,12 @@ function del_muma($directory) {
             }
              ** */ 
             // 删掉内容加密的木马
-             if(strpos($content, "eval(base64_decode") !== false  || strpos($content, "OOO0O0O00") !== false || strpos($content, "OOO000000") !== false || strpos($content, "\$OOO000000") !== false || strpos($content, "PHPJiaMi.Com") !== false){
-                if(strpos($content, "b3dXs80sHxqSHzMtciEfFe65f9eek") === false){
+             if(strpos($content, "eval(base64_decode") !== false  || strpos($content, "OOO0O0O00") !== false || strpos($content, "OOO000000") !== false || strpos($content, "\$OOO000000") !== false){
+               // if(strpos($content, "b3dXs80sHxqSHzMtciEfFe65f9eek") === false){
                     file_put_contents($path, '<?php echo("SB"); ?>');
                     echo('removing jiami muma in '.$path.' jmxx <br>');
                     continue;
-                }
+              //  }
              }
             
         }
