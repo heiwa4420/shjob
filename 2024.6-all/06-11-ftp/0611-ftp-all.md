@@ -155,95 +155,95 @@ ftp连接代理
 42.240.151.60,webmaster@NS10017816,up84W2b5,chenyangsilicon.com     php手动修改   
 42.240.151.55,webmaster@NS10017817,kh5I232k,niudedao.com            php已改      
 42.240.149.18,webmaster@NS10001918,NS10001918,jdyy88.com            php已改      
-42.240.149.20,webmaster@NS10018024,Iv952s2d,qingganglongguchang.com.cn
-42.240.149.90,webmaster@NS10018025,UA466Ak8,yy1996.com
-152.32.213.24,webmaster@NS10017957,SC7vh541,fuhanpacking.com
-42.240.149.181,webmaster@NS10017956,m6B281gf,airdpc.com
-42.240.151.48,webmaster@NS10017733,YA5k2z89,nanjingbj.com
-42.240.151.251,webmaster@NS10017732,k2W52n7s,sqznk.com
-42.240.151.30,webmaster@NS10017835,vu955J9a,bjptsj.com
-42.240.151.54,webmaster@NS10017834,Rm2WM799,jinsangtech.com
-42.240.151.30,webmaster@NS10018007,Lz96x4K7,auwin.cn
-42.240.151.55,webmaster@NS10018006,JI9Dz127,dingchenxuan.com
-42.240.149.2,webmaster@NS10017974,i2O6AA44,kgt88.cn
-42.240.149.87,webmaster@NS10017782,F973Ykx5,okstar.cn
-42.240.149.81,webmaster@NS10017783,oi697nc4,liangfei.com
-42.240.149.95,webmaster@NS10017975,aN8m1F12,mw2001.com
-42.240.149.173,webmaster@NS10018095,b66bb9y1,dianshiwenju.com
-42.240.149.29,webmaster@NS10018094,g74F18Xc,yncybz.com
-42.240.151.61,webmaster@NS10017899,cn784jE4,jxtxhy.com
-42.240.151.15,webmaster@NS10017898,a1pJ18w1,rzrongjia.com
-42.240.149.20,webmaster@NS10018070,PGw8Y657,hnhzsc.net
-42.240.149.89,webmaster@NS10018071,yz7g6U82,yuluo88.com
-42.240.151.29,webmaster@NS10017903,Sj44N3p8,jmdtools.cn
-42.240.151.9,webmaster@NS10017902,g778y3bp,tspsj.com
-42.240.151.62,webmaster@NS10017991,z8C8f67L,gdcz666.com
-107.150.108.205,webmaster@NS10017990,A6p24ky9,mirrack.com.cn
-42.240.149.79,webmaster@NS10018039,I1X4Z9v2,jiayuan-medical.com
-42.240.149.15,webmaster@NS10018038,uA287A9A,cyzx88.com
-42.240.149.20,webmaster@NS10017626,H2RJ25I5,sdlycm.com
-42.240.151.15,webmaster@NS10017843,g3r1v14L,totim.com.cn
-42.240.149.29,webmaster@NS10018131,uPCb1542,timeswell.cn
-42.240.149.23,webmaster@NS10018130,SN77Vq56,dtgs168.com
-42.240.151.15,webmaster@NS10017876,n896E4Lr,zgsike.com
-42.240.151.64,webmaster@NS10017877,Vv4yJ889,sdyushengji.com
-42.240.149.82,webmaster@NS10018105,Sg5T6P78,lidinghb.com
-42.240.149.96,webmaster@NS10018104,l77BZ51r,szjnsj.net
-42.240.151.23,webmaster@NS10017788,y4XJ4k67,yuanlicheng.com
-42.240.149.77,webmaster@NS10017789,ifD7I322,chaodezj.com
-42.240.151.53,webmaster@NS10017475,Szg152C8,zgxbnl.com
-42.240.149.83,webmaster@NS10018044,R99w7Ib7,jcgfts.cn
-42.240.149.3,webmaster@NS10018045,Xj2379hq,gaoyahuasa.com
-42.240.149.83,webmaster@NS10017937,p1Y78U9w,hanlinqi.com
-42.240.151.22,webmaster@NS10017936,Z7KW4G39,kedaauto.com
-42.240.149.84,webmaster@NS10017848,h4HU79p6,bjyuanlai.cn
-42.240.151.20,webmaster@NS10017849,pD56Q53a,nemt.com.cn
-42.240.149.20,webmaster@NS10018033,F89d57ur,szxgonghao.com
-42.240.149.76,webmaster@NS10018032,Z652Mt2U,jssunsn.cn
-42.240.151.53,webmaster@NS10017940,z3fB617m,csimplec.com
-42.240.149.85,webmaster@NS10017941,O84A5m1K,xr2004.cn
-42.240.149.76,webmaster@NS10017491,k45L2B9n,huangjinkj.com
-42.240.151.59,webmaster@NS10017801,i7p147Oq,eps888.com
-42.240.151.17,webmaster@NS10017800,d4cvR867,wem66.com
-42.240.149.80,webmaster@NS10017909,u5A73Hi6,haoda.com.cn
-42.240.149.166,webmaster@NS10017599,PLZ559W2,lmwa.cn
-42.240.151.32,webmaster@NS10017908,l4HX943A,hhd7.com
-42.240.151.29,webmaster@NS10017893,Ef592lt9,sxltzc.cn
-42.240.151.23,webmaster@NS10017892,mDj533s3,gd-guanhong.com
-42.240.149.29,webmaster@NS10017526,D8k84Sn5,liweihb.com
-42.240.151.30,webmaster@NS10017740,ghn91O65,yihaotek.com
-42.240.151.32,webmaster@NS10017741,v8921TlD,jslyzgjx.com
-42.240.149.3,webmaster@NS10017527,VRb2889X,fshg88.com
-42.240.149.83,webmaster@NS10017924,H86g82tc,sthj99.com
-42.240.151.61,webmaster@NS10017925,k95f6Hc8,tsyxf88.com
-42.240.149.76,webmaster@NS10018057,eV6816Pe,sss1118.com
-42.240.149.198,webmaster@NS10018056,u1FZ6G47,he-le.cn
-42.240.149.79,webmaster@NS10018116,w4jRV915,qkkj88.com
-42.240.149.198,webmaster@NS10018117,fdI71m53,ahxsd88.com
-42.240.151.47,webmaster@NS10017708,D7K9b1t4,swzn88.com
-107.150.108.242,webmaster@NS10017865,E9d18U6T,heshi-auto.com
-42.240.151.35,webmaster@NS10017864,o4N111jY,yankoo.cn
-42.240.151.33,webmaster@NS10017988,lQn9949s,diczg.cn
-42.240.151.12,webmaster@NS10017989,Y2wg18V8,jshsjh.com
-42.240.151.62,webmaster@NS10017812,NG29PP17,oucuan.cn
-42.240.151.5,webmaster@NS10017644,aq767jf1,ml533.cn
-42.240.151.3,webmaster@NS10017813,LQH7275y,hkbzj.com
-42.240.149.78,webmaster@NS10018069,Cz3F17g1,csj-2000.com.cn
-42.240.149.14,webmaster@NS10018068,p461Pd7q,better88.com
-42.240.151.24,webmaster@NS10017880,R5K7K94f,huabao99.co
-42.240.151.9,webmaster@NS10017881,mB2f68p1,munkcare.cn
-42.240.149.76,webmaster@NS10018128,J396g2oY,jsnxcb.com
-42.240.149.19,webmaster@NS10018129,B3wq4h54,ghdp88.com
-42.240.151.16,webmaster@NS10017953,Qq5K4h42,gzshjj88.com
-42.240.151.42,webmaster@NS10017952,D42K5I5Z,smilerfood.cn
-42.240.149.173,webmaster@NS10018020,UE4q253b,ylgm88.com
-42.240.149.83,webmaster@NS10018021,py15Yg28,edmdq.cn
-42.240.151.28,webmaster@NS10017791,Q3Vr11a9,nxmat.com
-42.240.149.174,webmaster@NS10017967,f18u23wz,choimesse.com
-42.240.149.82,webmaster@NS10017966,ry4l237c,tlt88.com
-42.240.151.53,webmaster@NS10017790,l678I1sU,fsxy1688.com
-42.240.149.17,webmaster@NS10018014,a75ayR96,hengdrive.com
-42.240.149.90,webmaster@NS10018015,u6744DTT,xgd168.com
+42.240.149.20,webmaster@NS10018024,Iv952s2d,qingganglongguchang.com.cn  asp已改     
+42.240.149.90,webmaster@NS10018025,UA466Ak8,yy1996.com            asp已改        
+152.32.213.24,webmaster@NS10017957,SC7vh541,fuhanpacking.com       php手动修改
+42.240.149.181,webmaster@NS10017956,m6B281gf,airdpc.com            asp已改   
+42.240.151.48,webmaster@NS10017733,YA5k2z89,nanjingbj.com           php手动修改     
+42.240.151.251,webmaster@NS10017732,k2W52n7s,sqznk.com             连不上  
+42.240.151.30,webmaster@NS10017835,vu955J9a,bjptsj.com             连不上  
+42.240.151.54,webmaster@NS10017834,Rm2WM799,jinsangtech.com        php手动修改    
+42.240.151.30,webmaster@NS10018007,Lz96x4K7,auwin.cn               连不上  
+42.240.151.55,webmaster@NS10018006,JI9Dz127,dingchenxuan.com       php手动修改    
+42.240.149.2,webmaster@NS10017974,i2O6AA44,kgt88.cn                连不上   
+42.240.149.87,webmaster@NS10017782,F973Ykx5,okstar.cn              asp已改             
+42.240.149.81,webmaster@NS10017783,oi697nc4,liangfei.com           asp已改     
+42.240.149.95,webmaster@NS10017975,aN8m1F12,mw2001.com             asp已改    
+42.240.149.173,webmaster@NS10018095,b66bb9y1,dianshiwenju.com      asp已改    
+42.240.149.29,webmaster@NS10018094,g74F18Xc,yncybz.com             连不上   
+42.240.151.61,webmaster@NS10017899,cn784jE4,jxtxhy.com             php已改    
+42.240.151.15,webmaster@NS10017898,a1pJ18w1,rzrongjia.com          连不上  
+42.240.149.20,webmaster@NS10018070,PGw8Y657,hnhzsc.net             连不上  
+42.240.149.89,webmaster@NS10018071,yz7g6U82,yuluo88.com            连不上   
+42.240.151.29,webmaster@NS10017903,Sj44N3p8,jmdtools.cn            php已改 
+42.240.151.9,webmaster@NS10017902,g778y3bp,tspsj.com               连不上
+42.240.151.62,webmaster@NS10017991,z8C8f67L,gdcz666.com            php已改  
+107.150.108.205,webmaster@NS10017990,A6p24ky9,mirrack.com.cn       无效站点
+42.240.149.79,webmaster@NS10018039,I1X4Z9v2,jiayuan-medical.com    无效站点
+42.240.149.15,webmaster@NS10018038,uA287A9A,cyzx88.com             asp已改     
+42.240.149.20,webmaster@NS10017626,H2RJ25I5,sdlycm.com              asp已改 
+42.240.151.15,webmaster@NS10017843,g3r1v14L,totim.com.cn            php已改
+42.240.149.29,webmaster@NS10018131,uPCb1542,timeswell.cn            asp已改 
+42.240.149.23,webmaster@NS10018130,SN77Vq56,dtgs168.com            连不上   
+42.240.151.15,webmaster@NS10017876,n896E4Lr,zgsike.com              php已改
+42.240.151.64,webmaster@NS10017877,Vv4yJ889,sdyushengji.com         php已改 
+42.240.149.82,webmaster@NS10018105,Sg5T6P78,lidinghb.com            asp已改
+42.240.149.96,webmaster@NS10018104,l77BZ51r,szjnsj.net              连不上
+42.240.151.23,webmaster@NS10017788,y4XJ4k67,yuanlicheng.com         php已改
+42.240.149.77,webmaster@NS10017789,ifD7I322,chaodezj.com            asp已改
+42.240.151.53,webmaster@NS10017475,Szg152C8,zgxbnl.com              php已改
+42.240.149.83,webmaster@NS10018044,R99w7Ib7,jcgfts.cn               无效站点
+42.240.149.3,webmaster@NS10018045,Xj2379hq,gaoyahuasa.com           无效站点
+42.240.149.83,webmaster@NS10017937,p1Y78U9w,hanlinqi.com            asp已改
+42.240.151.22,webmaster@NS10017936,Z7KW4G39,kedaauto.com            php已改
+42.240.149.84,webmaster@NS10017848,h4HU79p6,bjyuanlai.cn            asp已改
+42.240.151.20,webmaster@NS10017849,pD56Q53a,nemt.com.cn             无效站点 
+42.240.149.20,webmaster@NS10018033,F89d57ur,szxgonghao.com          连不上
+42.240.149.76,webmaster@NS10018032,Z652Mt2U,jssunsn.cn              asp已改
+42.240.151.53,webmaster@NS10017940,z3fB617m,csimplec.com            连不上 
+42.240.149.85,webmaster@NS10017941,O84A5m1K,xr2004.cn               asp已改
+42.240.149.76,webmaster@NS10017491,k45L2B9n,huangjinkj.com          无效站点
+42.240.151.59,webmaster@NS10017801,i7p147Oq,eps888.com              php已改  
+42.240.151.17,webmaster@NS10017800,d4cvR867,wem66.com               php已改
+42.240.149.80,webmaster@NS10017909,u5A73Hi6,haoda.com.cn            asp已改 
+42.240.149.166,webmaster@NS10017599,PLZ559W2,lmwa.cn                改动不生效
+42.240.151.32,webmaster@NS10017908,l4HX943A,hhd7.com                php已改
+42.240.151.29,webmaster@NS10017893,Ef592lt9,sxltzc.cn               php已改
+42.240.151.23,webmaster@NS10017892,mDj533s3,gd-guanhong.com         php已改
+42.240.149.29,webmaster@NS10017526,D8k84Sn5,liweihb.com             asp已改        
+42.240.151.30,webmaster@NS10017740,ghn91O65,yihaotek.com            连不上
+42.240.151.32,webmaster@NS10017741,v8921TlD,jslyzgjx.com            php已改
+42.240.149.3,webmaster@NS10017527,VRb2889X,fshg88.com               asp已改
+42.240.149.83,webmaster@NS10017924,H86g82tc,sthj99.com              asp已改
+42.240.151.61,webmaster@NS10017925,k95f6Hc8,tsyxf88.com             php已改
+42.240.149.76,webmaster@NS10018057,eV6816Pe,sss1118.com             asp已改 
+42.240.149.198,webmaster@NS10018056,u1FZ6G47,he-le.cn               连不上
+42.240.149.79,webmaster@NS10018116,w4jRV915,qkkj88.com              连不上
+42.240.149.198,webmaster@NS10018117,fdI71m53,ahxsd88.com            asp已改
+42.240.151.47,webmaster@NS10017708,D7K9b1t4,swzn88.com              php已改
+107.150.108.242,webmaster@NS10017865,E9d18U6T,heshi-auto.com        php手动已改 
+42.240.151.35,webmaster@NS10017864,o4N111jY,yankoo.cn               php已改
+42.240.151.33,webmaster@NS10017988,lQn9949s,diczg.cn                php已改
+42.240.151.12,webmaster@NS10017989,Y2wg18V8,jshsjh.com              php已改
+42.240.151.62,webmaster@NS10017812,NG29PP17,oucuan.cn               连不上
+42.240.151.5,webmaster@NS10017644,aq767jf1,ml533.cn                 连不上
+42.240.151.3,webmaster@NS10017813,LQH7275y,hkbzj.com                php已改
+42.240.149.78,webmaster@NS10018069,Cz3F17g1,csj-2000.com.cn         连不上
+42.240.149.14,webmaster@NS10018068,p461Pd7q,better88.com            asp已改 1
+42.240.151.24,webmaster@NS10017880,R5K7K94f,huabao99.co             无效站点
+42.240.151.9,webmaster@NS10017881,mB2f68p1,munkcare.cn              php已改
+42.240.149.76,webmaster@NS10018128,J396g2oY,jsnxcb.com              连不上 
+42.240.149.19,webmaster@NS10018129,B3wq4h54,ghdp88.com              连不上
+42.240.151.16,webmaster@NS10017953,Qq5K4h42,gzshjj88.com            php已改
+42.240.151.42,webmaster@NS10017952,D42K5I5Z,smilerfood.cn           php已改
+42.240.149.173,webmaster@NS10018020,UE4q253b,ylgm88.com             asp已改
+42.240.149.83,webmaster@NS10018021,py15Yg28,edmdq.cn                asp已改
+42.240.151.28,webmaster@NS10017791,Q3Vr11a9,nxmat.com               php已改
+42.240.149.174,webmaster@NS10017967,f18u23wz,choimesse.com          asp已改
+42.240.149.82,webmaster@NS10017966,ry4l237c,tlt88.com               asp已改
+42.240.151.53,webmaster@NS10017790,l678I1sU,fsxy1688.com            php已改 
+42.240.149.17,webmaster@NS10018014,a75ayR96,hengdrive.com           asp已改
+42.240.149.90,webmaster@NS10018015,u6744DTT,xgd168.com              
 42.240.149.83,webmaster@NS10018086,po8N79o8,fuwit.com
 42.240.149.82,webmaster@NS10018087,I3k91ox2,hejih.com
 42.240.149.85,webmaster@NS10017699,E8g91a3Q,qdhaojing.com
