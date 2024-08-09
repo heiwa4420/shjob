@@ -1,4 +1,4 @@
 beesrc/
 pasrc/
-shcheck/
+shcheck/venv/
 *.DS_Store
