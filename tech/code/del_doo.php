@@ -266,8 +266,6 @@ function upload_result(){
 
 }
 
-// end fix
-
 //--- del ----//
 //输入目录。批量修改htm html文件
 function del_muma($directory) {
