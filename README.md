@@ -1,7 +1,7 @@
 # README
 
 
-## antsword配置
+## antsword配置11111111
 特殊的base64、rsa连接，需要先增加对应encode
 见： ./config/antswords配置.md
 
