@@ -25,7 +25,7 @@ fpath_suc_urls = os.path.join(DIR_Today, 'suc_urls.md')
 fpath_fail_urls = os.path.join(DIR_Today, 'fail_urls.md')
 
 def read_urls():
-    # return ['http://lybt.fangac.cn/']
+    return ['http://phxgjg.com']
     """ 读取 urls.md文件中的所有域名，使用url为了避免.txt被加密
     """
     with open('./urls.md','r',encoding='utf-8') as f:
@@ -60,10 +60,13 @@ def check_url(url):
     if soup.head:
         noscript_tag = soup.head.noscript
     if not noscript_tag:
-        msg = '跳转存在，TDK noscript 不存在'
-        print(msg)
-        return False, msg
-    # title = noscript_tag.title.decode_contents
+        title = soup.title
+        if not title:
+            msg = '跳转存在，无 title'
+            return False, msg
+        msg = '跳转存在， title: '+title.text
+        return True, (title, None, None)
+    
     if noscript_tag.title:
         title = html.unescape(noscript_tag.title).encode('utf-8').decode('utf-8')
     else:
