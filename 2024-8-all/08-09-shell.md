@@ -1,8 +1,8 @@
-http://m.monkeykingpaint.com/uploads/userup/.)).php |mmk123 |rsa  
-http://demo.czlangan.cn/longxia/.)).php |mmk123 |rsa  
+http://m.monkeykingpaint.com/uploads/userup/.)).php |mmk123 |rsa   
+http://demo.czlangan.cn/longxia/.)).php |mmk123 |rsa                 未匹配到本域名
 http://monkeykingpaint.com/apps/api/controller/.)).php |mmk123 |rsa  
 http://manggejx.cn/static/upload/image/.)).php |mmk123 |rsa  
-http://njstarsports.com/static/images/.)).php |mmk123 |rsa  
+http://njstarsports.com/static/images/.)).php |mmk123 |rsa           修改成功
 http://fen.czlangan.cn/static/images/.g.php |gen |gen .)).php  
 http://m.czsjxsh.org//static/upload/ry/.)).php |mmk123 |rsa  
 http://fen.czlangan.cn/static/images/.)).php |mmk123 |rsa  
