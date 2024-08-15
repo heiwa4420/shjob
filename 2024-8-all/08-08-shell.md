@@ -13,6 +13,7 @@ https://dgpmj.com/uploads/ueditor/20221206/m13.php |mmk123 |rsa  无修改权限
 http://yumingxcl.com/static/upload/m13.php |mmk123 |rsa  无修改权限
 http://zy-heat.com/static/upload/image/20230406/.)).php |mmk123 |rsa  无修改权限
 http://babaolicheye.net/static/upload/other/20231103/m13.php |mmk123 |rsa   无效站点
+http://shenmeirui.com/static/upload/image/20230814/connect.php |mmk123 |rsa  空白
 
 
 
@@ -22,7 +23,6 @@ http://www.torrpa.cn/static/images/.)).php |mmk123 |rsa    php手动已改
 http://hbtrfxyq.cn/public/static/template/users_v2/.)).php |mmk123 |rsa   php手动已改
 http://gdsthj.cn/static/upload/image/m13.php |mmk123 |rsa   php手动已改
 http://fw.1337fk.com/static/upload/other/20230608/13.php |mmk123 |rsa   php手动已改
-http://shenmeirui.com/static/upload/image/20230814/connect.php |mmk123 |rsa   php手动已改
 http://syoneco.com/static/images/.)).php |mmk123 |rsa   php手动已改
 https://www.yuxinwlkj.com/static/images/.)).php |mmk123 |rsa   php手动已改
 http://szjasjd.com/template/pc/skin/css/.)).php |mmk123 |rsa    php手动已改
