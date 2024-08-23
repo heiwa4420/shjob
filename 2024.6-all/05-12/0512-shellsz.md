@@ -2,9 +2,8 @@
 
 ## 用ant插件连
 ## 挂逼的
-http://zjnqxj.com/upload/attached/20200624/bam.php |mmk123  0524 掉了 | 211.149.164.178
+http://zjnqxj.com/upload/attached/20200624/bam.php |mmk123  0524 掉了 | 211.149.164.178  404 被删了
 baileyip.com 备案屏蔽
-
 https://www.whdryer.com/template/index_bk.php ->big |wso | 218.247.87.158  大马不能执行
 https://www.tongcheng99.cn/10249_10245/m1.php |mmk123 | 8.140.244.215  文件无法编辑
 /www/wwwroot/jiaoyou/application/index/view/index/index.html
