@@ -31,7 +31,7 @@ $files = file("/www/wwwroot/api/url.txt");
                   file_put_contents("/www/wwwroot/api/".date('Ymd',time())."正常.txt",$url."\n",FILE_APPEND);
                   setTextCache("/www/wwwroot/api/index.txt",$index + 1);
                   echo  '当前执行ID：'.$index ."\n";die;
-               }
+               }·
       }      
   }
   
